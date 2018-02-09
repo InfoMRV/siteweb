@@ -1,0 +1,78 @@
+title = "DERA - Développement Énergie Renouvelable Afrique"
+baseURL = "https://gohugo-ananke-theme-demo.netlify.com/"
+languageCode = "fr"
+theme = "gohugo-theme-ananke"
+
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "fr"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  description = "The last theme you'll ever need. Maybe."
+  faceboook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  linkedin = "https://ca.linkedin.com/in/richardvoisin"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-white"
+  featured_image = "/images/IMG_3484.jpg"
+
+[languages]
+  [languages.fr]
+    title = "DERA [fr]"
+  [[Languages.fr.menu.languages]]
+     name = "English"
+     identifier = ""
+     weight = 5
+     url = "/en"
+  [[Languages.fr.menu.custom]]
+     name = "Projets"
+     identifier = ""
+     weight = 3
+     url = "/projets"
+  [[Languages.fr.menu.custom]]
+     name = "Contact"
+     identifier = ""
+     weight = 6
+     url = "/contact"
+  [[Languages.fr.menu.custom]]
+     name = "Services"
+     identifier = ""
+     weight = 4
+     url = "/services"
+
+
+  [languages.en]
+    title = "DERA [en]"
+  [[Languages.en.menu.languages]]
+     name = "Français"
+     identifier = ""
+     weight = 5
+     url = "/"
+  [[Languages.en.menu.custom]]
+     name = "Services"
+     identifier = ""
+     weight = 4
+     url = "/en/services"
+  [[Languages.en.menu.custom]]
+     name = "Projects"
+     identifier = ""
+     weight = 3
+     url = "/en/projects"
+  [[Languages.en.menu.custom]]
+     name = "Contact"
+     identifier = ""
+     weight = 6
+     url = "/en/contact"
+
+

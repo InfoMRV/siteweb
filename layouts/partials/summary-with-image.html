@@ -1,0 +1,20 @@
+{{ $featured_image := .Params.featured_image }}
+
+<div class="fl-ns w-third-m w-20-l pr4-ns">
+    <article class="card bg-white mb4">
+        <div class="img-container">
+            {{ if .Params.featured_image }}
+                {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
+                {{ $featured_image := (trim $featured_image "/") | absURL }}
+                <img src="{{ $featured_image }}" class="w-100 db" alt="{{ .Title }}">
+            {{ end }}
+            
+        </div>
+        <div class="pa3">
+          <a href="{{.URL}}" class="link db bleu2 lh-title">{{ .Title }}</a>
+          <small class="gray dib mt3 bt bw1 b--gris2 pt2">
+              <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "02/01/2006" }}</time>
+          </small>
+        </div>
+    </article>
+</div>

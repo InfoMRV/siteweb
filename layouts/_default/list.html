@@ -1,0 +1,24 @@
+{{ define "main" }}
+iiiiiiiiiiiiiiiiiiiste
+<div class="pv5 psides bg-near-white">
+    <div class="mw7 center">
+        <p class="lh-copy tc">
+            {{ .Content }}
+        </p>
+    </div>
+</div>
+
+  <div class="psides">
+    <div class="mw9 center">
+      {{ $section := where .Data.Pages "Section" .Section }}
+      <section class="flex-ns flex-wrap mt5">
+        {{ range  $section }}
+          <div class="fl w-100 w-90-m w-70-l mb2 bg-white">
+            {{ partial "summary-project.html" . }}
+          </div>
+        {{ end }}
+      </section>
+    {{ template "_internal/pagination.html" . }}
+    </div>
+  </div>
+{{ end }}
