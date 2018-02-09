@@ -1,18 +1,26 @@
-            {{ $mainSections := (slice "nouvelles") }}
+{{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
+{{/* $mainSections := .Site.Params.mainSections | default (slice "post") */}}
+{{ $mainSections := (slice "nouvelles") }}
 
-            {{/* Create a variable with that section to use in multiple places. */}}
-            {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
-            {{/* Check to see if the section is defined for ranging through it */}}
-            {{ $section_count := len $section }}
+{{/* Create a variable with that section to use in multiple places. */}}
+{{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+{{/* Check to see if the section is defined for ranging through it */}}
+{{ $section_count := len $section }}
 
-            {{ if ge $section_count 1 }}
+{{ if ge $section_count 1 }}
+    <h2 class="white mb4">Nouvelles</h2>
+    <div class="fl-ns w-100-m w-60-l">
 
-                {{/* $n_posts := $.Param "recent_posts_number" | default 3 */}}
-                {{ $n_posts := 3 }}
+    {{/* $n_posts := $.Param "recent_posts_number" | default 3 */}}
+    {{ $n_posts := 3 }}
 
-                {{/* Range through the first $n_posts items of the section */}}
-                {{ range (first $n_posts $section) }}
-                    {{ partial "summary-card.html" . }}
-                {{ end }}
+    {{/* Range through the first $n_posts items of the section */}}
+    {{ range (first $n_posts $section) }}
+        {{ partial "summary-card.html" . }}
+    {{ end }}
 
-            {{ end}}
+    </div>
+    
+{{ else }}
+    <div class="fl-ns w-100-m w-60-l">&nbsp;</div>
+{{ end }}

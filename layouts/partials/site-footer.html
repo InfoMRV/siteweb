@@ -38,25 +38,12 @@
 </div>
 <footer class="bg-bleu3 bottom-0 w-100 pv3 psides" role="contentinfo">
     <div class="mw9 center cf">
-        <h2 class="white mb4">
         {{ if eq (.Params.lang) "en" }}
-            News
+            {{ partial "site-footer-news.html" . }}
         {{ else }}
-            Nouvelles
+            {{ partial "site-footer-nouvelles.html" . }}
         {{ end }}
-        </h2>
-        <div class="fl-ns w-100-m w-60-l">
-            {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
-            {{/* $mainSections := .Site.Params.mainSections | default (slice "post") */}}
-            {{ if eq (.Params.lang) "en" }}
-                {{ partial "site-footer-news.html" . }}
-            {{ else }}
-                {{ partial "site-footer-nouvelles.html" . }}
-            {{ end }}
 
-        </div>
-        
-        
         <div class="fl-ns w-100-m w-40-l">
             <div class="fl-ns w-100-m w-50-l">&nbsp;</div>
             <div class="fl-ns w-100-m w-50-l">
