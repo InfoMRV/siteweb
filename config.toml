@@ -1,7 +1,7 @@
 title = "DERA - Développement Énergie Renouvelable Afrique"
-baseURL = "https://gohugo-ananke-theme-demo.netlify.com/"
+baseURL = "/"
 languageCode = "fr"
-theme = "gohugo-theme-ananke"
+theme = "deraenergy"
 
 
 MetaDataFormat = "yaml"
