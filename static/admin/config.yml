@@ -5,9 +5,9 @@ media_folder: "/static/images" # Folder where user uploaded files should go
 public_folder: "images"
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "content/post" # The path to the folder where the documents are stored
+  - name: "projets" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Projet (FR)" # Used in the UI, ie.: "New Post"
+    folder: "content/projets" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
@@ -15,9 +15,9 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "enpost" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "English Post" # Used in the UI, ie.: "New Post"
-    folder: "content/enpost" # The path to the folder where the documents are stored
+  - name: "projects" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Project (EN)" # Used in the UI, ie.: "New Post"
+    folder: "content/projects" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
@@ -25,9 +25,19 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "else" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Else" # Used in the UI, ie.: "New Post"
-    folder: "content/else" # The path to the folder where the documents are stored
+  - name: "nouvelles" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Nouvelle (FR)" # Used in the UI, ie.: "New Post"
+    folder: "content/nouvelles" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "news" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "News (EN)" # Used in the UI, ie.: "New Post"
+    folder: "content/news" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
