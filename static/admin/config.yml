@@ -14,7 +14,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Region", name: "region", widget: "string"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Featured Image", name: "featuredimage", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "projects" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Project (EN)" # Used in the UI, ie.: "New Post"
@@ -25,7 +25,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Region", name: "region", widget: "string"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Featured Image", name: "featuredimage", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "nouvelles" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Nouvelle (FR)" # Used in the UI, ie.: "New Post"
@@ -35,7 +35,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Featured Image", name: "featuredimage", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "news" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "News (EN)" # Used in the UI, ie.: "New Post"
@@ -45,6 +45,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Featured Image", name: "featuredimage", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
