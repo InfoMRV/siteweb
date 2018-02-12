@@ -5,4 +5,4 @@ description:
 type: our-services
 lang: en
 ---
-ENGLISH TEXT PLEASE FILL OUT----Développement Énergie Renouvelable Afrique inc. offre à ses clients l’ensemble des prestations liées aux évolutions des services et infrastructures de production d’énergie et au développement des énergies renouvelables, dans leurs dimensions tant technique, qu’économique, financière et institutionnelle.
+Développement Énergie Renouvelable Afrique inc. offers its customers all services related to the evolution of energy production operations and infrastructures and to the development of renewable energies, in their technical, economic, financial and institutional dimensions.
