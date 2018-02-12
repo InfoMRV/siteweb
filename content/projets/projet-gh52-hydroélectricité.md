@@ -5,7 +5,7 @@ region: République de Guinée
 description: >-
   Énergie renouvelable produite par aménagement hydroélectrique (barrage et
   centrale) visant une puissance de 52 MW.
-featured_image: /images/serv_expert.jpg
+featured_image: /images/photo wuesseguele01.jpg
 ---
 **Lieu** : RÉPUBLIQUE DE GUINÉE<br>
 **Région** : MOYENNE GUINÉE<br>
@@ -17,9 +17,9 @@ Le site est atypique dans sa géomorphologie. Deux rivières se rencontrent au p
 
 ## CONTEXTE ET OBJECTIFS
 
-Le projet de TENE II vise à alimenter une région où les besoins en électricité sont très importants. Le bassin de population pouvant être desservi directement par cet aménagement est de plus de 100 000 personnes en électrification rurale (Préfecture de Tougué). Raccordée sur le réseau national, c'est plus de 400 000 foyers guinéens qui bénéficieront d'une électricité renouvelable, propre et durable.
+Le projet vise à alimenter une région où les besoins en électricité sont très importants. Le bassin de population qui peut être directement desservi par ce développement est de plus de 50 000 personnes en électrification rurale (sous-préfecture de Thianguel-Bori). Connectés au réseau national de LABÉ, plus de 600 000 ménages guinéens bénéficieront d'une électricité renouvelable, propre et durable.
 
-Ce site présente un très grand intérêt pour le gouvernement de la République de Guinée afin de rencontrer ses objectifs pour répondre aux besoins en énergie et de développement économique et social de cette préfecture.
+Ce site présente donc un grand intérêt pour le Gouvernement de la République de Guinée pour atteindre ses objectifs de répondre aux besoins énergétiques et au développement économique et social de cette sous-préfecture.
 
 C'est donc dans cette logique de développement que le MINISTÈRE DE L'ÉNERGIE ET DE L'HYDRAULIQUE (MEH) de la République de Guinée et DÉVELOPPEMENT ÉNERGIE RENOUVELABLE AFRIQUE (DÉRA) ont signé le 8 décembre 2017 un protocole d'accord permettant la poursuite des études, la mise en place du financement pour la construction d'un aménagement hydroélectrique.
 
