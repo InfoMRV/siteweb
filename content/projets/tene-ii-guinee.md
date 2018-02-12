@@ -3,7 +3,7 @@ title: Projet GH20 - Hydroélectricité
 date: 2017-04-09T14:58:08.000Z
 region: République de Guinée
 description: >-
-  Énergie renouvable produite par aménagement hydroélectrique (barrage et
+  Énergie renouvelable produite par aménagement hydroélectrique (barrage et
   centrale) visant une puissance de 20 MW.
 featured_image: /images/photo-tene-ii.jpg
 ---
