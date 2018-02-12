@@ -1,5 +1,5 @@
 ---
-title: Projet RG20 - Hydroélectricité
+title: Projet GH20 - Hydroélectricité
 date: 2017-04-09T14:58:08.000Z
 region: République de Guinée
 description: >-
