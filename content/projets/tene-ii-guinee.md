@@ -1,20 +1,19 @@
 ---
-title:  "TENE II"
-date: 2017-04-09T10:58:08-04:00
-tags: []
-featured_image: '/images/photo-tene-ii.jpg'
-region: "République de Guinée"
-description: "Énergie renouvable produite par aménagement hydroélectrique (barrage et centrale)"
-lang: "fr"
+title: TENE II
+date: 2017-04-09T14:58:08.000Z
+region: République de Guinée
+description: >-
+  Énergie renouvable produite par aménagement hydroélectrique (barrage et
+  centrale)
+featured_image: /images/photo-tene-ii.jpg
 ---
-
 **Lieu** : RÉPUBLIQUE DE GUINÉE<br>
 **Région** : MOYENNE GUINÉE, Préfecture de TOUGUÉ<br>
 **Rivière** : TENE<br>
 **Bassin versant** : BAFING<br>
 **Puissance estimée** : 20 MW<br>
 
-![placeholder image](http://placehold.it/840x540)
+![placeholder image](http://placehold.it/720x540)
 
 ## PARTICULARITÉ
 
@@ -41,7 +40,7 @@ populations. Il favorise le développement individuel via l’amélioration des 
 
 BETRER S.A.R.L.
 
-## PLANIFICATION 
+## PLANIFICATION
 
 ## DERNIÈRES NOUVELLES DU PROJET
 
@@ -49,4 +48,5 @@ BETRER S.A.R.L.
 de la République de Guinée ont signé le 8 décembre 2017 un protocole d’accord permettant à DÉRA la poursuite 
 des études de faisabilité et éventuellement de la construction d’un ouvrage hydroélectrique sur le site de la 
 rivière TENE. Une marque de confiance envers l’équipe de DÉRA.
-***
+
+- - -
