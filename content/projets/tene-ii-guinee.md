@@ -1,52 +1,47 @@
 ---
-title:  "TENE II"
-date: 2017-04-09T10:58:08-04:00
-tags: []
-featured_image: '/images/photo-tene-ii.jpg'
-region: "République de Guinée"
-description: "Énergie renouvable produite par aménagement hydroélectrique (barrage et centrale)"
-lang: "fr"
+title: Projet GH20 - Hydroélectricité
+date: 2017-04-09T14:58:08.000Z
+region: République de Guinée
+description: >-
+  Énergie renouvelable produite par aménagement hydroélectrique (barrage et
+  centrale) visant une puissance de 20 MW.
+featured_image: /images/photo-tene-ii.jpg
 ---
-
 **Lieu** : RÉPUBLIQUE DE GUINÉE<br>
 **Région** : MOYENNE GUINÉE, Préfecture de TOUGUÉ<br>
-**Rivière** : TENE<br>
 **Bassin versant** : BAFING<br>
 **Puissance estimée** : 20 MW<br>
 
-![placeholder image](http://placehold.it/840x540)
-
 ## PARTICULARITÉ
 
-La rivière TENE à l’endroit du site présente un débit d’eau intéressant. 
-La chute naturelle d’une hauteur de 50m et la topographie permettront l’implantation 
-d’un barrage à moins d’un kilomètre de la centrale et d’une conduite d’amenée entre les deux. 
+Le site est très propice à la construction d'un aménagement hydroélectrique avec une chute naturelle d'une hauteur d'environ 45 m.
+
+![](/images/collage_tene_ii_linkedin_v01.jpg)
 
 ## CONTEXTE ET OBJECTIFS
 
-Le projet de TENE II est l’une des principales priorités du Gouvernement de la République 
-de Guinée pour le secteur Eau-Énergie, il est aligné avec les objectifs du MEH :
+Le projet de TENE II vise à alimenter une région où les besoins en électricité sont très importants. Le bassin de population pouvant être desservi directement par cet aménagement est de plus de 100 000 personnes en électrification rurale (Préfecture de Tougué). Raccordée sur le réseau national, c'est plus de 400 000 foyers guinéens qui bénéficieront d'une électricité renouvelable, propre et durable.
 
-* Amélioration de l’accès à l’électricité pour tous les ménages et entreprises dans le périmètre d’influence autour du projet ;
-* Interconnexion au réseau de transport national afin de permettre l’évacuation de l’énergie de surplus en périodes de crues.
+Ce site présente un très grand intérêt pour le gouvernement de la République de Guinée afin de rencontrer ses objectifs pour répondre aux besoins en énergie et de développement économique et social de cette préfecture.
 
-Ce site présente un très grand intérêt pour son développement permettant ainsi au gouvernement 
-de la République de Guinée de rencontrer ses objectifs en matière énergétiques, et aussi en 
-matière de développement économique et social de cette région.  Permettre un accès fiable et 
-abordable à l’électricité contribue à l’amélioration des conditions de vie et de bien-être des 
-populations. Il favorise le développement individuel via l’amélioration des conditions 
-éducatives et sanitaires.
+C'est donc dans cette logique de développement que le MINISTÈRE DE L'ÉNERGIE ET DE L'HYDRAULIQUE (MEH) de la République de Guinée et DÉVELOPPEMENT ÉNERGIE RENOUVELABLE AFRIQUE (DÉRA) ont signé le 8 décembre 2017 un protocole d'accord permettant la poursuite des études, la mise en place du financement pour la construction d'un aménagement hydroélectrique.
 
 ## PARTENAIRE
 
 BETRER S.A.R.L.
 
-## PLANIFICATION 
+## PLANIFICATION
+
+Études de développement débuté en janvier 2018.
+
+Construction prévue vers la mi 2019.
+
+Mise en route prévue vers la fin 2021.
 
 ## DERNIÈRES NOUVELLES DU PROJET
 
-**DÉVELOPPEMENT ÉNERGIE RENOUVELABLE AFRIQUE (DÉRA) et le MINISTÈRE DE L’ÉNERGIE ET DE L’HYDRAULIQUE (MEH)** 
+**DÉVELOPPEMENT ÉNERGIE RENOUVELABLE AFRIQUE inc. et le MINISTÈRE DE L’ÉNERGIE ET DE L’HYDRAULIQUE (MEH)** 
 de la République de Guinée ont signé le 8 décembre 2017 un protocole d’accord permettant à DÉRA la poursuite 
-des études de faisabilité et éventuellement de la construction d’un ouvrage hydroélectrique sur le site de la 
-rivière TENE. Une marque de confiance envers l’équipe de DÉRA.
-***
+des études de faisabilité et éventuellement de la construction d’un ouvrage hydroélectrique sur le site du projet. Une marque de confiance envers l’équipe de DÉRA.
+
+- - -
