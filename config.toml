@@ -22,7 +22,7 @@ enableRobotsTXT = true
   twitter = ""
   instagram = ""
   youtube = ""
-  linkedin = "https://ca.linkedin.com/in/richardvoisin"
+  linkedin = "https://ca.linkedin.com/company/deraenergy"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-white"
   featured_image = "/images/IMG_3484.jpg"
