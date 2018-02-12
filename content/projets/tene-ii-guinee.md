@@ -4,7 +4,7 @@ date: 2017-04-09T14:58:08.000Z
 region: République de Guinée
 description: >-
   Énergie renouvable produite par aménagement hydroélectrique (barrage et
-  centrale)
+  centrale) visant une puissance de 20 MW.
 featured_image: /images/photo-tene-ii.jpg
 ---
 **Lieu** : RÉPUBLIQUE DE GUINÉE<br>
