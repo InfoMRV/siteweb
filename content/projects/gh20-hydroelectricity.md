@@ -21,7 +21,7 @@ It is therefore in this development logic that the MINISTRY OF ENERGY AND HYDRAU
 
 ## PARTNER
 
-BETRER S.A.R.L.
+![](/images/logo_BETRER.png)
 
 ## PLANNING
 
