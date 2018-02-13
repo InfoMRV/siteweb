@@ -26,7 +26,7 @@ Notre programme **CONGO ÉNERGIE** aidera le pays à atteindre ses cibles en ter
 
 ## PARTENAIRE
 
-ÉLECTR'AF S.A.R.L.
+
 
 ## PLANIFICATION
 
