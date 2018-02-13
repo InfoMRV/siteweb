@@ -1,6 +1,6 @@
 ---
 title: Novembre 2017 Présence de DÉRA à la COP23 - Bonn
-date: 2018-02-11T00:00:00-05:00
+date: 2017-11-20T00:00:00-05:00
 description: 'DERA, une présence remarquée à la COP23'
 featured_image: /images/img_7110.jpg
 ---
