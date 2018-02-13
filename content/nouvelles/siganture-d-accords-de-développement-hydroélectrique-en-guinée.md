@@ -1,6 +1,6 @@
 ---
 title: Décembre 2017 - Signature d'accords de développement hydroélectrique en Guinée
-date: 2018-02-12T23:06:02.191Z
+date: 2017-12-08T18:06:02-05:00
 description: >-
   DERA signe plusieurs accords de développement hydroélectrique avec le
   Gouvernement de la République de Guinée
