@@ -1,6 +1,6 @@
 ---
 title: December 2017 DERA signs hydroelectric MOU with Guinea
-date: 2018-02-12T23:11:14.274Z
+date: 2017-12-08T18:11:14-05:00
 description: >-
   DERA signs several hydroelectric development agreements (MOU) with the
   Government of the Republic of Guinea
