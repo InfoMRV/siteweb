@@ -8,7 +8,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+googleAnalytics = "UA-114054136-1"
 enableRobotsTXT = true
 
 [sitemap]
