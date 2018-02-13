@@ -1,5 +1,5 @@
 ---
-title: 'DERA, une présence renforcée en Afrique!'
+title: 'Octobre 2017 DERA, une présence renforcée en Afrique!'
 date: 2018-02-12T21:42:12.882Z
 description: Nos projets hydroélectriques avancent en Guinée (Conakry)
 featured_image: /images/collage_tene_ii_linkedin_v01.jpg
