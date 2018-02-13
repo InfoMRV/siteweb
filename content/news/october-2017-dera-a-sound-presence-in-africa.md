@@ -3,6 +3,7 @@ title: 'October 2017 DERA, a sound presence in Africa!'
 date: 2017-10-15T07:43:55-04:00
 description: Our hydroelectric projects are progressing in Guinea (Conakry)!
 featured_image: /images/collage_tene_ii_linkedin_v01.jpg
+lang: en
 ---
 The **DÉVELOPPEMENT ÉNERGIE RENOUVELABLE AFRIQUE (DERA) **team, assisted by a technical team of Guinea's National Energy and Electricity Department, recently visited the Fouta Djallon in Middle Guinea (to make a site survey).
 

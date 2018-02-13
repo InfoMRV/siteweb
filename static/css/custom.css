@@ -188,8 +188,8 @@ header {
 }
 
 .card a {
-    height: 40px;
-    max-height: 40px;
+    height: 44px;
+    max-height: 44px;
     overflow: hidden;
 }
 
@@ -321,11 +321,11 @@ header {
     justify-content: center;
 }
 
-.card .img-container img {
+.section-mandats .img-container img {
     z-index: 1;
 }
 
-.card .img-container:before {
+.section-mandats .img-container:before {
     content: '';
     position: absolute;
     left: 0;
@@ -341,7 +341,7 @@ header {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='transparent', endColorstr='#71ae47',GradientType=0 ); /* IE6-9 */
 }
 
-.card .img-container small {
+.section-mandats .img-container small {
     position: absolute;
     left: 0;
     right: 0;

@@ -6,6 +6,7 @@ description: >-
   Énergie renouvelable produite par aménagement hydroélectrique (barrage et
   centrale) visant une puissance de 20 MW.
 featured_image: /images/photo-tene-ii.jpg
+lang: fr
 ---
 **Lieu** : RÉPUBLIQUE DE GUINÉE<br>
 **Région** : MOYENNE GUINÉE, Préfecture de TOUGUÉ<br>

@@ -5,6 +5,7 @@ description: >-
   DERA signs several hydroelectric development agreements (MOU) with the
   Government of the Republic of Guinea
 featured_image: /images/img_2930.jpg
+lang: en
 ---
 DEVELOPPEMENT ENERGIE RENOUVELABLE AFRIQUE (DERA) is taking another step towards the development of its portfolio of renewable energy projects in Guinea (Conakry).
 
@@ -12,7 +13,8 @@ Early December 2017, the DERA partners met with the Minister of Energy and Hydra
 
 Signing these protocols is an important milestone that now allows the DERA team to continue studies and development.
 
-The three sites targeted by the protocols are located in Moyenne Guinée:
+
+The three sites targeted by the protocols are located in Moyenne Guinée:
 
 1. GH20, in the watershed of the BAFING river (Tougué prefecture);
 2. GH10, in the KABA River watershed (Mamou prefecture);

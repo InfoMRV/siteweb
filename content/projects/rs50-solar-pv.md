@@ -6,6 +6,7 @@ description: >-
   CONGO ENERGY Program - Development, construction and operation of solar
   photovoltaic farms totalizing 50 MW.
 featured_image: /images/présentation cop23 ver04.jpg
+lang: en
 ---
 ## SPECIAL FEATURE
 

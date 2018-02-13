@@ -3,6 +3,7 @@ title: 'Octobre 2017 DERA, une présence renforcée en Afrique!'
 date: 2017-10-15T16:42:12-04:00
 description: Nos projets hydroélectriques avancent en Guinée (Conakry)
 featured_image: /images/collage_tene_ii_linkedin_v01.jpg
+lang: fr
 ---
 L'équipe de **DÉVELOPPEMENT ÉNERGIE RENOUVELABLE AFRIQUE (DERA)**, assistée par les cadres de la Direction Nationale de l'Énergie et de Électricité de Guinée s'est rendue dernièrement dans le Fouta Djallon en Moyenne Guinée (pour faire une visite de reconnaissance de sites).
 

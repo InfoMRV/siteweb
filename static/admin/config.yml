@@ -17,6 +17,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Language (Ne pas modifier)", name: "lang", defaut: "fr", widget: "string"}
   - name: "projects" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Project (EN)" # Used in the UI, ie.: "New Post"
     folder: "content/projects" # The path to the folder where the documents are stored
@@ -28,6 +29,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Language (Ne pas modifier)", name: "lang", defaut: "en", widget: "string"}
   - name: "nouvelles" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Nouvelle (FR)" # Used in the UI, ie.: "New Post"
     folder: "content/nouvelles" # The path to the folder where the documents are stored
@@ -38,6 +40,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Language (Ne pas modifier)", name: "lang", defaut: "fr", widget: "string"}
   - name: "news" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "News (EN)" # Used in the UI, ie.: "New Post"
     folder: "content/news" # The path to the folder where the documents are stored
@@ -48,4 +51,5 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Language (Ne pas modifier)", name: "lang", defaut: "en", widget: "string"}
 

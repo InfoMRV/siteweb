@@ -5,6 +5,7 @@ description: >-
   DERA signe plusieurs accords de développement hydroélectrique avec le
   Gouvernement de la République de Guinée
 featured_image: /images/img_2930.jpg
+lang: fr
 ---
 **Développement Énergie Renouvelable Afrique (DÉRA)** franchit une nouvelle étape pour le développement de son portfolio de projets en énergie renouvelable en Guinée (Conakry). 
 
@@ -18,4 +19,5 @@ Les trois sites visés par les protocoles sont situés en Moyenne Guinée :
 2. GH10, dans le bassin versant de la rivière KABA (préfecture de Mamou);
 3. GH52, dans le bassin versant de la rivière TOMINÉ (préfecture de Lélouma).
 
-L'équipe de DÉRA est fière d'être le partenaire de l'État Guinéen pour le développement d'une Énergie Propre offrant un accès durable à l'électricité pour tous.
+
+L'équipe de DÉRA est fière d'être le partenaire de l'État Guinéen pour le développement d'une Énergie Propre offrant un accès durable à l'électricité pour tous.

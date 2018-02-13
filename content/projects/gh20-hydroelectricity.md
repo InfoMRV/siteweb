@@ -6,6 +6,7 @@ description: >-
   Renewable energy produced by hydroelectric power plant (dam and power station)
   with a capacity of 20 MW.
 featured_image: /images/photo-tene-ii.jpg
+lang: en
 ---
 ## SPECIAL FEATURE
 

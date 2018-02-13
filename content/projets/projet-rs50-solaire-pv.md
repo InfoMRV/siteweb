@@ -6,6 +6,7 @@ description: >-
   Programme CONGO ÉNERGIE - Développement, construction et opération de fermes
   solaires photovoltaïques totalisant 50 MW.
 featured_image: /images/http---www.lifeofpix.com-wp-content-uploads-2017-03-dsc07961 (1).jpg
+lang: fr
 ---
 **Lieu** : RÉPUBLIQUE DÉMOCRATIQUE DU CONGO<br>
 **Province** : KINSHASA, LUALUBA et HAUT-KATANGA<br>

@@ -6,6 +6,7 @@ description: >-
   Renewable energy produced by hydroelectric power plant (dam and power station)
   with a capacity of 52 MW.
 featured_image: /images/photo wuesseguele01.jpg
+lang: en
 ---
 ## SPECIAL FEATURE
 
