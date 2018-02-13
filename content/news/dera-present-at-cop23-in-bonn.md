@@ -1,6 +1,6 @@
 ---
-title: DERA present at COP23 in Bonn.
-date: 2018-02-12T23:04:20.329Z
+title: 'November 2017 DERA present at COP23, Bonn.'
+date: 2018-02-11T00:00:00-05:00
 description: 'DERA, a presence noticed at COP23!'
 featured_image: /images/img_7110.jpg
 ---
