@@ -16,7 +16,7 @@ featured_image: /images/photo-tene-ii.jpg
 
 Le site est très propice à la construction d'un aménagement hydroélectrique avec une chute naturelle d'une hauteur d'environ 45 m.
 
-![](/images/collage_tene_ii_linkedin_v01.jpg)
+![null](/images/collage_tene_ii_linkedin_v01.jpg)
 
 ## CONTEXTE ET OBJECTIFS
 
@@ -28,7 +28,7 @@ C'est donc dans cette logique de développement que le MINISTÈRE DE L'ÉNERGIE 
 
 ## PARTENAIRE
 
-BETRER S.A.R.L.
+![](/images/logo_BETRER.png)
 
 ## PLANIFICATION
 
