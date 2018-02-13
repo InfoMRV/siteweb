@@ -28,15 +28,13 @@ C'est donc dans cette logique de développement que le MINISTÈRE DE L'ÉNERGIE 
 
 ## PARTENAIRE
 
-![](/images/logo_BETRER.png)
+![null](/images/logo_BETRER.png)
 
 ## PLANIFICATION
 
-Études de développement débuté en janvier 2018.
-
-Construction prévue vers la mi 2019.
-
-Mise en route prévue vers la fin 2021.
+* Études de développement débuté en janvier 2018.
+* Construction prévue vers la mi 2019.
+* Mise en route prévue vers la fin 2021.
 
 ## DERNIÈRES NOUVELLES DU PROJET
 
