@@ -63,6 +63,8 @@ jaune:  #F3AE1C
 .lato { font-family: 'Lato', sans-serif; }
 /* .muli { font-family: 'Muli', sans-serif; } */
 
+.f2, .f2-custom { font-size: 1.75rem; }
+
 .lh-167 { line-height: 1.667; }
 
 ul ul { list-style: disc; }
