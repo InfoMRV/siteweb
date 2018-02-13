@@ -26,7 +26,7 @@ Notre programme **CONGO ÉNERGIE** aidera le pays à atteindre ses cibles en ter
 
 ## PARTENAIRE
 
-
+![](/images/logo_electraf.png)
 
 ## PLANIFICATION
 
