@@ -20,12 +20,17 @@ Our **CONGO ENERGY** program will help the country reach his sustainable develop
 * Creating a positive and rapid impact for the population by the implementation of means of production and networks for rural electrification;
 * Producing clean energy without CO`2` emissions;
 * Launched in successive phases of 5 to 10 MW over the next 3 years.
-* ## PARTNERS
 
-Electr'AF
+## PARTNERS
+
+![](/images/logo_electraf.png)
 
 ## PLANNING
 
 * Preliminary studies planned in 2018;
 * Construction to begin end of 2018;
 * Target commissioning date for the first phase is 2019.
+
+## Latest news
+
+February 2018: The experts from DERA and Électr'AF go on a mission to the DRC.
