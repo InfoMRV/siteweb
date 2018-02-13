@@ -25,7 +25,9 @@ C'est donc dans cette logique de développement que le MINISTÈRE DE L'ÉNERGIE 
 
 ## PARTENAIRE
 
-BETRER S.A.R.L.
+
+
+![](/images/logo_BETRER.png)
 
 ## PLANIFICATION
 
