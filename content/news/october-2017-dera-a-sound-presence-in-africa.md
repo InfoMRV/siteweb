@@ -1,6 +1,6 @@
 ---
 title: 'October 2017 DERA, a sound presence in Africa!'
-date: 2018-02-13T12:43:55.169Z
+date: 2017-10-15T07:43:55-04:00
 description: Our hydroelectric projects are progressing in Guinea (Conakry)!
 featured_image: /images/collage_tene_ii_linkedin_v01.jpg
 ---
