@@ -21,7 +21,7 @@ Le site est très propice à la construction d'un aménagement hydroélectrique 
 
 ## CONTEXTE ET OBJECTIFS
 
-Le projet de TENE II vise à alimenter une région où les besoins en électricité sont très importants. Le bassin de population pouvant être desservi directement par cet aménagement est de plus de 100 000 personnes en électrification rurale (Préfecture de Tougué). Raccordée sur le réseau national, c'est plus de 400 000 foyers guinéens qui bénéficieront d'une électricité renouvelable, propre et durable.
+Le projet vise à alimenter une région où les besoins en électricité sont très importants. Le bassin de population pouvant être desservi directement par cet aménagement est de plus de 100 000 personnes en électrification rurale (Préfecture de Tougué). Raccordée sur le réseau national, c'est plus de 400 000 foyers guinéens qui bénéficieront d'une électricité renouvelable, propre et durable.
 
 Ce site présente un très grand intérêt pour le gouvernement de la République de Guinée afin de rencontrer ses objectifs pour répondre aux besoins en énergie et de développement économique et social de cette préfecture.
 
