@@ -1,5 +1,5 @@
 ---
-title: DÉRA participe à la COP23 à Bonn (Allemagne)
+title: Novembre 2017 - DÉRA participe à la COP23 à Bonn (Allemagne)
 date: 2017-11-20T05:00:00.000Z
 description: 'DÉRA, une présence remarquée à la COP23'
 featured_image: /images/img_7110.jpg
