@@ -1,5 +1,5 @@
 ---
-title: Hydroelectricity - Solar Power
+title: Hydropower - Solar Power
 description: Energetic know-how
 featured_image: '/images/photo-accueil.jpg'
 type: english
