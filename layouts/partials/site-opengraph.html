@@ -1,0 +1,17 @@
+<meta property="og:title" content="{{ .Title | default .Site.Title }}" />
+{{ if eq (.Params.lang) "en" }}
+    <meta property="og:description" content="Hydroelectricity and Solar Power Development" />
+{{ else }}
+    <meta property="og:description" content="{{ $.Site.Params.description }}" />
+{{ end }}
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Permalink }}" />
+{{ $featured_image := .Param "featured_image" | default "android-chrome-256x256.png" }}
+{{ if $featured_image }}
+    {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
+    {{ $featured_image := (trim $featured_image "/") | absURL }}
+    <meta property="og:image" content="{{ $featured_image }}" />
+{{ else }}
+    {{/* Default image if all else fails */}} 
+    <meta property="og:image" content="//android-chrome-256x256.png" />
+{{ end }}
