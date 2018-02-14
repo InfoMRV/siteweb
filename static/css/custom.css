@@ -58,12 +58,13 @@ jaune:  #F3AE1C
 .b--jaune { border-color: #F3AE1C; }
 
 
+
 /* TYPOGRAPHY */
 
 .lato { font-family: 'Lato', sans-serif; }
 /* .muli { font-family: 'Muli', sans-serif; } */
 
-.f2, .f2-custom { font-size: 1.75rem; }
+.f2-custom { font-size: 1.75rem; }
 
 .lh-167 { line-height: 1.667; }
 

@@ -17,8 +17,8 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  description = "The last theme you'll ever need. Maybe."
-  faceboook = ""
+  description = "Développement hydroélectrique et solaire"
+  facebook = ""
   twitter = ""
   instagram = ""
   youtube = ""

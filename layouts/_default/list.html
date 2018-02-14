@@ -11,7 +11,7 @@
   <div class="psides">
     <div class="mw7 center">
       {{ $section := where .Data.Pages "Section" .Section }}
-      <section class="flex-ns flex-wrap mt5">
+      <section class="flex-ns flex-wrap mt5 cf">
         {{ range  $section }}
           <div class="fl w-100 mb2 bg-white">
             {{ partial "summary-news.html" . }}
