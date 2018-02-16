@@ -18,7 +18,7 @@ Le site est atypique dans sa géomorphologie. Deux rivières se rencontrent au p
 
 ## CONTEXTE ET OBJECTIFS
 
-Le projet vise à alimenter une région où les besoins en électricité sont très importants. Le bassin de population qui peut être directement desservi par ce développement est de plus de 50 000 personnes en électrification rurale (sous-préfecture de Thianguel-Bori). Connectés au réseau national de LABÉ, plus de 600 000 ménages guinéens bénéficieront d'une électricité renouvelable, propre et durable.
+Le projet vise à alimenter une région où les besoins en électricité sont très importants. Le bassin de population pouvant être directement desservi par ce développement est de plus de 50 000 personnes en électrification rurale. Connectés au réseau national de LABÉ, plus de 600 000 ménages guinéens bénéficieront d'une électricité renouvelable, propre et durable.
 
 Ce site présente donc un grand intérêt pour le Gouvernement de la République de Guinée pour atteindre ses objectifs de répondre aux besoins énergétiques et au développement économique et social de cette sous-préfecture.
 
