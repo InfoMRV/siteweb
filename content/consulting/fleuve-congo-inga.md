@@ -3,7 +3,7 @@ title: Technical assistance and strategic advisor of the Ministry on the INGA pr
 date: 2017-04-06T14:58:08.000Z
 region: Democratic Republic of Congo
 description: Congo River at Inga
-featured_image: /images/photo_mandat_togo.jpg
+featured_image: /images/photo_mandat_inga.jpg
 lang: en
 ---
 Member of the Strategic Advisory Team of the Ministry of Energy

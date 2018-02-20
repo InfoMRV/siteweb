@@ -3,7 +3,7 @@ title: Assistance technique et conseiller stratégique du Ministère sur le proj
 date: 2017-04-06T14:58:08.000Z
 region: République Démocratique du Congo
 description: Fleuve Congo à Inga
-featured_image: /images/photo_mandat_togo.jpg
+featured_image: /images/photo_mandat_inga.jpg
 lang: fr
 ---
 Membre de l’équipe des conseillers stratégiques du Ministère de l’Énergie
