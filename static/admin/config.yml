@@ -52,4 +52,28 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Language (doit être: en)", name: "lang", default: "en", widget: "string"}
+  - name: "mandats" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Mandat (FR)" # Used in the UI, ie.: "New Post"
+    folder: "content/mandats" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Region", name: "region", widget: "string"}
+      - {label: "Location", name: "description", widget: "text"}
+      - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Language (doit être: fr)", name: "lang", default: "fr", widget: "string"}
+  - name: "consulting" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Consulting Service (EN)" # Used in the UI, ie.: "New Post"
+    folder: "content/consulting" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Region", name: "region", widget: "string"}
+      - {label: "Location", name: "description", widget: "text"}
+      - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Language (doit être: en)", name: "lang", default: "en", widget: "string"}
 

@@ -1,0 +1,24 @@
+{{ $featured_image := .Params.featured_image }}
+
+<div class="fl w-100 w-50-m w-25-l ph3">
+    <article class="card bg-white mb4">
+        <div class="img-container">
+            {{ if .Params.featured_image }}
+                {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
+                {{ $featured_image := (trim $featured_image "/") | absURL }}
+                <img src="{{ $featured_image }}" class="w-100 db" alt="{{ .Params.region }}">
+            {{ end }}
+
+            <small class="ph3 pv2 f6 fw7 ttu white">{{ .Params.region }}</small>
+        </div>
+        <div class="pa3 bg-near-white">
+            {{ with .Params.description  }}
+              <small class="db f7">{{ . }}</small>
+            {{ end }}            
+            <h3 class="f5 vert1">{{ .Title }}</h3>
+            <div class="f6 lh-copy">
+                {{ .Content }}
+            </div>
+        </div>
+    </article>
+</div>

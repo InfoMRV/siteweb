@@ -69,91 +69,17 @@
 
 <div class="pt4 pb3 psides bg-white section-mandats">
     <div class="mw7 center">
-        <h2 class="f2 fw7 tc">Mandates</h2>
+        <h2 class="f2 fw7 tc">Consulting Services</h2>
     </div>
     <div class="mw9 center cf">
-        <div class="fl w-100 w-50-m w-25-l ph3">
-            <article class="card bg-white mb4">
-                <div class="img-container">
-                    <img src="/images/photo_mandat_loffa.jpg" class="w-100 db" alt="Guinea">
-                    <small class="ph3 pv2 f6 fw7 ttu white">Guinea</small>
-                </div>
-                <div class="pa3 bg-near-white">
-                    <small class="db f7">Loffa river at Palan</small>
-                    <h3 class="f5 vert1">Preliminary studies for the development of 6 hydropower sites</h3>
-                    <p class="f6 lh-copy">
-                        Preliminary studies for the development of hydroelectric projects with a capacity of between
-                        5 and 25 MW.<br><br>
-                        Analysis of site data, preliminary design of hydropower layouts and rural electrification grids,
-                        environmental and social assessment, financial and economic analysis, institutional
-                        framework assessment.
-                    </p>
-                </div>
-            </article>
-        </div>
         
-        <div class="fl w-100 w-50-m w-25-l ph3">
-            <article class="card bg-white mb4">
-                <div class="img-container">
-                    <img src="/images/photo_mandat_mano.jpg" class="w-100 db" alt="Mano River at Kongo">
-                    <small class="ph3 pv2 f6 fw7 ttu white">Liberia & Sierra Leone</small>
-                </div>
-                <div class="pa3 bg-near-white">
-                    <small class="db f7">Mano River at Kongo</small>
-                    <h3 class="f5 vert1">Mano hydropower project scoping study</h3>
-                    <p class="f6 lh-copy">
-                        Review of existing project studies (1981), evaluation of the technical solutions in relation to
-                        the management of the two national parks.<br>
-                        Assessment of environmental, legal and institutional frameworks;<br>
-                        Assessment of the environmental and social impact of the project.<br>
-                        Development of viable technical alternatives.<br>
-                    </p>
-                </div>
-            </article>
-        </div>
-        
-        <div class="fl w-100 w-50-m w-25-l ph3">
-            <article class="card bg-white mb4">
-                <div class="img-container">
-                    <img src="/images/photo_mandat_togo.jpg" class="w-100 db" alt="Mono River at Tététou">
-                    <small class="ph3 pv2 f6 fw7 ttu white">Togo</small>
-                </div>
-                <div class="pa3 bg-near-white">
-                    <small class="db f7">Mono River at Tététou</small>
-                    <h3 class="f5 vert1">Preliminary studies for the development of 10 hydropower sites</h3>
-                    <p class="f6 lh-copy">
-                        Completion of preliminary studies for the development of hydroelectric projects with a
-                        capacity of between 5 and 80 MW.<br>
-                        Analysis of site data, preliminary design of hydropower layouts and interconnexions,
-                        environmental and social assessment economic and financial analysis, institutional framework
-                        assessment.
-                    </p>
-                </div>
-            </article>
-        </div>
-        
-        <div class="fl w-100 w-50-m w-25-l ph3">
-            <article class="card bg-white mb4">
-                <div class="img-container">
-                    <img src="/images/photo_mandat_inga.jpg" class="w-100 db" alt="Congo River at Inga">
-                    <small class="ph3 pv2 f6 fw7 ttu white">Democratic Republic of Congo</small>
-                </div>
-                <div class="pa3 bg-near-white">
-                    <small class="db f7">Congo River at Inga</small>
-                    <h3 class="f5 vert1">Technical assistance and strategic advisor of the Ministry on the INGA project</h3>
-                    <p class="f6 lh-copy">
-                        Member of the Strategic Advisory Team of the Ministry of Energy<br><br>
-                        Technical assistance for the law firm Orrick Rambaud Martel (lead counselors):
-                    </p>
-                    <ul class="f6 lh-copy">
-                        <li>Tender for the choice of a concessionaire;</li>
-                        <li>Concession contract term sheet;</li>
-                        <li>Power Purchase Agreement (PPA) term sheet;</li>
-                        <li>Organizational and project management consulting.</li>
-                    </ul>
-                </div>
-            </article>
-        </div>
+        <!-- insert loop here -->
+        {{ $targetSection := (slice "consulting") }}
+        {{ $section := where .Site.RegularPages "Section" "in" $targetSection }}
+        {{ range  $section }}
+              {{ partial "consulting-card.html" . }}
+        {{ end }}
+
     </div>
 </div>
 
