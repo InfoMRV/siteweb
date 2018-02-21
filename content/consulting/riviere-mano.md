@@ -1,11 +1,15 @@
 ---
-title: Preliminary studies for the development of 6 hydropower sites
+title: Mano hydropower project scoping study
 date: 2017-04-08T14:58:08.000Z
 region: Liberia & Sierra Leone
 description: Mano River at Kongo
 featured_image: /images/photo_mandat_mano.jpg
 lang: en
 ---
-Preliminary studies for the development of hydroelectric projects with a capacity of between 5 and 25 MW.
+Review of existing project studies (1981), evaluation of the technical solutions in relation to the management of the two national parks.
 
-Analysis of site data, preliminary design of hydropower layouts and rural electrification grids, environmental and social assessment, financial and economic analysis, institutional framework assessment.
+Assessment of environmental, legal and institutional frameworks;
+
+Assessment of the environmental and social impact of the project.
+
+Development of viable technical alternatives.
