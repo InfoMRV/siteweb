@@ -1,5 +1,7 @@
 ---
-title: Diagnostic du projet hydroélectrique Manon sur la rivière Mano
+title: >-
+  Diagnostic environnemental et social du projet hydroélectrique Mano sur la
+  rivière Mano
 date: 2017-04-08T14:58:08.000Z
 region: Libéria et Sierra Léone
 description: Rivière Mano à Kongo
