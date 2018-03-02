@@ -1,5 +1,5 @@
 ---
-title: DERA - Potential solar development in DRC
+title: DERA - Solar power in DRC
 date: 2018-03-02T18:58:04.933Z
 description: 'Développement Énergie Renouvelable Afrique (DERA) '
 featured_image: /images/collage_fotor_rdc_solaire_4.jpg
