@@ -1,5 +1,5 @@
 ---
-title: DERA - Potentiels développement solaires en RDC
+title: DERA - Énergie solaire en RDC
 date: 2018-03-02T18:41:19.004Z
 description: 'Développement Énergie Renouvelable Afrique (DÉRA) '
 featured_image: /images/collage_fotor_rdc_solaire_4.jpg
