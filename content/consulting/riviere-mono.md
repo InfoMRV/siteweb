@@ -1,5 +1,5 @@
 ---
-title: Preliminary studies for the development of 10 hydropower sites
+title: Preliminary studies for the development of 8 hydropower sites
 date: 2017-04-07T14:58:08.000Z
 region: Togo
 description: Mono River at Tététou
