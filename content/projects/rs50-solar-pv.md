@@ -3,8 +3,8 @@ title: RS50 - Solar PV
 date: 2018-02-12T21:28:07.466Z
 region: Democratic Republic of Congo
 description: >-
-  CONGO ENERGY Program - Development, construction and operation of solar
-  photovoltaic farms totalizing 50 MW.
+  Development, construction and operation of solar photovoltaic farms totalizing
+  50 MW.
 featured_image: /images/presentation_cop23_ver04.jpg
 lang: en
 ---
@@ -16,15 +16,11 @@ Solar potential is favorable to the photovoltaic and thermal exploitation almost
 
 The Congolese government has launched a program of reforms and strategic development in the energy sector. Key objectives have been defined for the sector, including liberalization, increased transparency and implementation of renewable energy development programs by facilitated national and international private partners.
 
-Our **CONGO ENERGY** program will help the country reach his sustainable development targets. It will contribute to the socio-economic development of the regions in which it will operate:
+Our project program will help the country reach his sustainable development targets. It will contribute to the socio-economic development of the regions in which it will operate:
 
 * Creating a positive and rapid impact for the population by the implementation of means of production and networks for rural electrification;
 * Producing clean energy without CO`2` emissions;
 * Launched in successive phases of 5 to 10 MW over the next 3 years.
-
-## PARTNERS
-
-![](/images/logo_electraf.png)
 
 ## PLANNING
 
@@ -32,6 +28,6 @@ Our **CONGO ENERGY** program will help the country reach his sustainable develop
 * Construction to begin end of 2018;
 * Target commissioning date for the first phase is 2019.
 
-## Latest news
+## LATEST NEWS
 
-February 2018: The experts from DERA and Électr'AF go on a mission to the DRC.
+February 2018: The experts from DERA went on a mission in DRC.
