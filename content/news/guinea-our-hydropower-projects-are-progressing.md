@@ -1,7 +1,7 @@
 ---
 title: 'Guinea, our hydropower projects are progressing!'
-date: 2018-08-01T00:00:00-04:00
-description: Prefeasibility studies
+date: 2018-08-01T04:00:00.000Z
+description: Hydropower projects prefeasibility studies presentation in Guinea.
 featured_image: /images/collage_prez_faisabilité.jpg
 lang: en
 ---
