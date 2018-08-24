@@ -1,6 +1,6 @@
 ---
-title: 'Août 2018 - Guinée, nos projets hydroélectriques avancent!'
-date: 2018-08-24T14:16:10.520Z
+title: 'Guinée, nos projets hydroélectriques avancent!'
+date: 2018-08-01T10:16:10-04:00
 description: >-
   Présentation des études de préfaisabilité des projets hydroélectriques en
   Guinée.
