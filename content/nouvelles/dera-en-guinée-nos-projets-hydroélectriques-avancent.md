@@ -1,5 +1,5 @@
 ---
-title: 'Août 2018 - DÉRA en Guinée, nos projets hydroélectriques avancent!'
+title: 'Août 2018 - Guinée, nos projets hydroélectriques avancent!'
 date: 2018-08-24T14:16:10.520Z
 description: >-
   Présentation des études de préfaisabilité des projets hydroélectriques en
