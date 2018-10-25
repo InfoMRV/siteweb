@@ -4,6 +4,7 @@ date: 2018-10-25T14:42:00.256Z
 description: >-
   DERA invite les consultants à manifester leur intérêt à fournir les services
   pour différents lots.
+featured_image: /images/serv_ingenerie.jpg
 lang: fr
 ---
 Développement Énergie Renouvelable Afrique Inc. (DÉRA) est un promoteur et producteur indépendant d'énergie renouvelable sur le continent africain.
