@@ -1,5 +1,5 @@
 ---
-title: 'Octobre 2018 : Appel à Manifestations d’Intérêt International'
+title: Octobre 2018 - Appel à Manifestations d’Intérêt International
 date: 2018-10-25T14:42:00.256Z
 description: >-
   DERA invite les consultants à manifester leur intérêt à fournir les services
