@@ -15,7 +15,7 @@ Nous développons, finançons et exploitons des installations de production d'é
 
 DÉRA se positionne comme le chef de file canadien dans la production d'énergie renouvelable en Afrique Subsaharienne.
 
-Dans le cadre du développement de nos projets hydroélectriques en Guinée, nous recherchons, dans le cadre d’une procédure de mise en concurrence internationale, des consultants (ingénieurs conseils), pour la réalisation des lots suivants :
+Dans le cadre du développement de nos projets hydroélectriques en Guinée (entre 12 MW et 40 MW), nous recherchons, dans le cadre d’une procédure de mise en concurrence internationale, des consultants (ingénieurs conseils), pour la réalisation des lots suivants :
 
 •	Lot 1 : Études topographiques;
 
