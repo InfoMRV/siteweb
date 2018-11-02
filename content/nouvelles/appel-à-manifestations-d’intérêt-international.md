@@ -23,8 +23,6 @@ Site 3 : 12 MW dans la préfecture de Macenta;
 
 Les études de pré-développement ont été réalisées et financées par DERA et l’Union Européenne.
 
-## Les différents lots
-
 Pour le développement de ces projets hydroélectriques en Guinée, nous recherchons, dans le cadre d’une procédure de mise en concurrence internationale, des consultants (ingénieurs conseils), pour la réalisation des lots suivants :
 
 **Lot 1 : Études topographiques;**
@@ -48,7 +46,11 @@ DERA invite les consultants à manifester leur intérêt à fournir les services
 
 Afin de nous permettre de sélectionner votre groupement, merci de bien vouloir compléter votre documentation comme suit :
 
-Les consultants intéressés doivent produire les informations démontrant qu’ils sont qualifiés et expérimentés pour réaliser les présents Services. A ce titre, ils justifieront qu’ils possèdent des références de prestations récentes et similaires. Afin de nous permettre de sélectionner votre groupement, merci de bien vouloir compléter votre documentation comme suit. Dans le cas où le consultant manifeste son intérêt pour deux lots ou plus, il ne fournit qu'un seul dossier, en précisant pour chaque lot les références adéquates.
+Les consultants intéressés doivent produire les informations démontrant qu’ils sont qualifiés et expérimentés pour réaliser les présents Services. A ce titre, ils justifieront qu’ils possèdent des références de prestations récentes et similaires. 
+
+Afin de nous permettre de sélectionner votre groupement, merci de bien vouloir compléter votre documentation comme suit. 
+
+Dans le cas où le consultant manifeste son intérêt pour deux lots ou plus, il ne fournit qu'un seul dossier, en précisant pour chaque lot les références adéquates.
 
 Si le consultant est constitué en groupement, la manifestation d’intérêt doit inclure : 
 
