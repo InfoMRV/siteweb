@@ -23,6 +23,8 @@ Site 3 : 12 MW dans la préfecture de Macenta;
 
 Les études de pré-développement ont été réalisées et financées par DERA et l’Union Européenne.
 
+## Les différents lots
+
 Pour le développement de ces projets hydroélectriques en Guinée, nous recherchons, dans le cadre d’une procédure de mise en concurrence internationale, des consultants (ingénieurs conseils), pour la réalisation des lots suivants :
 
 **Lot 1 : Études topographiques;**
@@ -41,6 +43,8 @@ Concernant le lot 4, DERA recherche un conseiller technique pour la phase de dé
 * Participation à la rédaction du ou des contrats d’achat de l’énergie.
 
 DERA invite les consultants à manifester leur intérêt à fournir les services pour les différents lots décrits ci-dessus. Le début de prestations est attendu pour décembre 2018 (études topographiques) et janvier/Février 2019.
+
+## Documentation demandée
 
 Afin de nous permettre de sélectionner votre groupement, merci de bien vouloir compléter votre documentation comme suit :
 
@@ -84,6 +88,8 @@ Le Candidat devra joindre à sa manifestation d’intérêt les autres documents
 
 1. Extrait du registre du commerce et du crédit mobilier ; 
 2. Attestation de non faillite datant de moins de trois (03) mois
+
+## Processus de sélection
 
 DERA dressera une liste restreinte de six (06) candidats au maximum, présélectionnés sur la base des candidatures reçues, auxquels il adressera les dossiers d’appel d’offre pour la réalisation des services requis pour chaque lot.
 
