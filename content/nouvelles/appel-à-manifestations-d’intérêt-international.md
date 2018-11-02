@@ -33,16 +33,14 @@ Pour le développement de ces projets hydroélectriques en Guinée, nous recherc
 
 **Lot 4 : Conseiller technique pour la réalisation des études de faisabilité et de bancabilité.**
 
-DERA invite les consultants à manifester leur intérêt à fournir les services pour les différents lots décrits ci-dessus.
-
-Le début de prestations est attendu pour décembre 2018 (études topographiques) et janvier/Février 2019.
-
 Concernant le lot 4, DERA recherche un conseiller technique pour la phase de développement jusqu’au « closing » financier. Les prestations du conseiller technique seront les suivantes, sans être limitatif :
 
 * Réalisation ou approbation des études techniques;
 * Rédaction des spécifications techniques pour le ou les contrats EPC;
 * Participation à la rédaction du ou des contrats de concession, cahiers des charges et annexes;
 * Participation à la rédaction du ou des contrats d’achat de l’énergie.
+
+DERA invite les consultants à manifester leur intérêt à fournir les services pour les différents lots décrits ci-dessus. Le début de prestations est attendu pour décembre 2018 (études topographiques) et janvier/Février 2019.
 
 Afin de nous permettre de sélectionner votre groupement, merci de bien vouloir compléter votre documentation comme suit :
 
