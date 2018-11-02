@@ -46,7 +46,7 @@ Concernant le lot 4, DERA recherche un conseiller technique pour la phase de dé
 
 Afin de nous permettre de sélectionner votre groupement, merci de bien vouloir compléter votre documentation comme suit :
 
-Les consultants intéressés doivent produire les informations démontrant qu’ils sont qualifiés et expérimentés pour réaliser les présents Services. A ce titre, ils justifieront qu’ils possèdent des références de prestations récentes et similaires. 
+Les consultants intéressés doivent produire les informations démontrant qu’ils sont qualifiés et expérimentés pour réaliser les présents Services. A ce titre, ils justifieront qu’ils possèdent des références de prestations récentes et similaires. Afin de nous permettre de sélectionner votre groupement, merci de bien vouloir compléter votre documentation comme suit. Dans le cas où le consultant manifeste son intérêt pour deux lots ou plus, il ne fournit qu'un seul dossier, en précisant pour chaque lot les références adéquates.
 
 Si le consultant est constitué en groupement, la manifestation d’intérêt doit inclure : 
 
