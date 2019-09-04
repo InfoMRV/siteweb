@@ -9,8 +9,6 @@ lang: fr
 ---
 Si travailler sur des projets de développement en Énergie, le tout dans un environnement très convivial et dynamique – vous intéresse, alors vous pourriez être la personne que nous recherchons.
 
-
-
 Rôle :
 
 Sous la direction du Directeur Général, votre rôle consiste à : 
@@ -18,8 +16,6 @@ Sous la direction du Directeur Général, votre rôle consiste à :
 •	Assister l’équipe dans la réalisation de tâches administratives;
 
 •	Assister le directeur financier dans la tenue des comptes et aura pour mission de veiller à l'enregistrement des opérations comptables.
-
-
 
 Responsabilités du poste
 
@@ -47,8 +43,6 @@ o	Préparer les rapports trimestriels;
 
 o	Participer à l’élaboration des rapports d’activités annuels.
 
-
-
 •	Assister le directeur financier dans la tenue des comptes (50% du temps, environ) :
 
 o	Effectuer des ordres de virement bancaire, suivant les directives du CFO;
@@ -73,8 +67,6 @@ o	Aider au suivi du tableau de bord comptable;
 
 o	Aider à la réalisation des états financiers complets.
 
-
-
 Exigences minimales :
 
 •	Diplôme d’études technique avec un minimum de 2 ans d’expérience pertinente ou toute combinaison équivalente d’études et d’expériences de travaux pertinents
@@ -83,23 +75,13 @@ Exigences minimales :
 
 •	Maîtriser des langues anglaises et françaises tant à l'oral qu'à l'écrit est indispensable;
 
-•	Maîtrise de l’espagnol, un atout;
-
 •	Sens de l'organisation et des priorités, assiduité et sens aigu des responsabilités;
 
 •	Capacité et surtout envie de travailler en équipe;
 
 •	Être disposé(e) à gérer des surcharges occasionnelles de travail et à déléguer des portions de travail au besoin.
 
-
-
-
-
-
-
 Travailler chez DERA ENERGY c’est:
-
-
 
 •	Flexibilité des horaires
 
@@ -123,6 +105,6 @@ Travailler chez DERA ENERGY c’est:
 
 •	Une passe de transport en commun annuelle
 
-
-
 Alors, avez-vous le profil?
+
+Envoyez-nous votre CV à info@deraenergy.com
