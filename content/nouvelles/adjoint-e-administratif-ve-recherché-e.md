@@ -1,5 +1,5 @@
 ---
-title: Adjoint(e) Admin. recherché(e)
+title: Adjoint(e) admin. recherché(e)
 date: 2019-09-04T18:11:58.172Z
 description: >-
   DERA Energy (Montréal) recherche un(e) adjoint(e) avec 2-3 ans d'expérience en
