@@ -264,6 +264,15 @@ header {
     background-size: contain;
 }
 
+.projects-title .mw9-alt.center:before {
+    content: '';
+    position: absolute;
+    top: -260px;
+    right: -24px;
+    width: 65%;
+    padding-top: 65%;
+}
+
 @media screen and (min-width: 30em) {
     top: -260px;
     right: -24px;
