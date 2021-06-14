@@ -1,17 +1,17 @@
 ---
-title: Projet GH52 - Hydroélectricité
+title: Ouességuélé - Hydroélectricité (32 MW)
 date: 2018-02-12T21:04:20.193Z
 region: République de Guinée
 description: >-
   Énergie renouvelable produite par aménagement hydroélectrique (barrage et
-  centrale) visant une puissance de 52 MW.
+  centrale) visant une puissance de 32 MW.
 featured_image: /images/photo wuesseguele01.jpg
 status: development
 lang: fr
 ---
 **Lieu** : RÉPUBLIQUE DE GUINÉE<br>
 **Région** : MOYENNE GUINÉE<br>
-**Puissance estimée** : 52 MW<br>
+**Puissance estimée** : 32 MW<br>
 
 ## PARTICULARITÉ
 
