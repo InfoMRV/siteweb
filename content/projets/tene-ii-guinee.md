@@ -7,6 +7,7 @@ description: >-
   centrale) visant une puissance de 20 MW.
 featured_image: /images/photo-tene-ii.jpg
 lang: fr
+status: complete
 ---
 **Lieu** : RÉPUBLIQUE DE GUINÉE<br>
 **Région** : MOYENNE GUINÉE, Préfecture de TOUGUÉ<br>

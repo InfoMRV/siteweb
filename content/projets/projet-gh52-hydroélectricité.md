@@ -6,6 +6,7 @@ description: >-
   Énergie renouvelable produite par aménagement hydroélectrique (barrage et
   centrale) visant une puissance de 52 MW.
 featured_image: /images/photo wuesseguele01.jpg
+status: complete
 lang: fr
 ---
 **Lieu** : RÉPUBLIQUE DE GUINÉE<br>
