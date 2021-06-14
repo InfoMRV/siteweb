@@ -16,13 +16,11 @@
     </div>
 </div>
 
-
 <div class="projects-title psides pv5">
     <div class="mw9 center relative">
-        <h2 class="f2 fw7 mt0">Projects</h2>
+        <h2 class="f2 fw7 mt0">Projects in operation</h2>
         <p class="lh-copy mb4 w-40-m w-40-l">
-            Here are some of the hydropower and solar projects being developed by 
-            the DERA team and its local and international partners.
+            Here are some of our hydropower and solar projects in operation.
         </p>
     </div>
 </div>
@@ -34,6 +32,52 @@
         {{ range  $section }}
           <div class="fl w-100 w-100-m w-70-l mb2 bg-white">
             {{ partial "summary-project.html" . }}
+          </div>
+        {{ end }}
+      </section>
+    {{ template "_internal/pagination.html" . }}
+    </div>
+</div>
+
+<div class="projects-title psides pv5">
+    <div class="mw9-alt center relative">
+        <h2 class="f2 fw7 mt0">Projects under construction</h2>
+        <p class="lh-copy mb4 w-40-m w-40-l">
+            Here are some of our hydropower and solar projects under construction.
+        </p>
+    </div>
+</div>
+
+<div class="psides relative cf">
+    <div class="mw9 center">
+      {{ $section := where .Data.Pages "Section" .Section }}
+      <section class="flex-ns flex-wrap overlap-up">
+        {{ range  $section }}
+          <div class="fl w-100 w-100-m w-70-l mb2 bg-white">
+            {{ partial "summary-project-cons.html" . }}
+          </div>
+        {{ end }}
+      </section>
+    {{ template "_internal/pagination.html" . }}
+    </div>
+</div>
+
+<div class="projects-title psides pv5">
+    <div class="mw9-alt center relative">
+        <h2 class="f2 fw7 mt0">Projects in development</h2>
+        <p class="lh-copy mb4 w-40-m w-40-l">
+            Here are some of our hydropower and solar projects in development.
+        </p>
+    </div>
+</div>
+
+<div class="psides relative cf">
+    <div class="mw9 center">
+      {{ $section := where .Data.Pages "Section" .Section }}
+      <section class="flex-ns flex-wrap overlap-up">
+        {{ range  $section }}
+          <div class="fl w-100 w-100-m w-70-l mb2 bg-white">
+            {{ partial "summary-project-dev.html" . }}
           </div>
         {{ end }}
       </section>
