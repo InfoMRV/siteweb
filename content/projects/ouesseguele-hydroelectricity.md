@@ -1,10 +1,10 @@
 ---
-title: Ouességuélé - Hydroelectricity (32 MW)
+title: Ouesseguele - Hydroelectricity (32 MW)
 date: 2018-02-12T21:37:34.123Z
 region: Republic of Guinea
 description: >-
   Renewable energy produced by hydroelectric power plant (dam and power station)
-  with a capacity of 32 MW.
+  with a capacity of 33 MW.
 featured_image: /images/photo wuesseguele01.jpg
 lang: en
 status: development
@@ -12,7 +12,7 @@ status: development
 ---
 **Lieu** : REPUBLIC OF GUINEA<br>
 **Région** : MIDDLE GUINEA<br>
-**Puissance estimée** : 32 MW<br>
+**Puissance estimée** : 33 MW<br>
 
 ## SPECIAL FEATURE
 
