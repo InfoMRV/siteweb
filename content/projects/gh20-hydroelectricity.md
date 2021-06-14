@@ -7,6 +7,7 @@ description: >-
   with a capacity of 20 MW.
 featured_image: /images/photo-tene-ii.jpg
 lang: en
+status: complete
 ---
 ## SPECIAL FEATURE
 
