@@ -10,9 +10,9 @@ lang: en
 status: development
 status: development
 ---
-**Lieu** : REPUBLIC OF GUINEA<br>
-**Région** : MIDDLE GUINEA<br>
-**Puissance estimée** : 33 MW<br>
+**Location** : REPUBLIC OF GUINEA<br>
+**Region** : MIDDLE GUINEA<br>
+**Estimated yield** : 33 MW<br>
 
 ## SPECIAL FEATURE
 
