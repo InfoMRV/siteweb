@@ -1,17 +1,17 @@
 ---
-title: Diego (Ramena) - Solar (10 MW)
+title: Toamasina (Glassware) - Solar (2 MW)
 date: 2021-06-15T00:00:00.000Z
 region: Madagascar
 description: >-
   Renewable energy produced by solar panels with a capacity 
-  of 10 MW.
-featured_image: /images/diego-const.jpg
+  of 2 MW.
+featured_image: /images/Tamatave.jpeg
 lang: en
-status: construction
+status: complete
 ---
 **Location** : MADAGASCAR<br>
-**Region** : DIANA<br>
-**Estimated yield** : 10 MW<br>
+**Region** : ATSINANANA<br>
+**Estimated yield** : 2 MW<br>
 
 ## SPECIAL FEATURE
 
