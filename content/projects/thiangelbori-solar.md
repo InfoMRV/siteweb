@@ -1,17 +1,16 @@
 ---
-title: Toamasina (la Verrerie) - Solar (2 MW)
+title: Thiangel Bori - Solar (10 MW)
 date: 2021-06-15T00:00:00.000Z
-region: Madagascar
+region: Republic of Guinea
 description: >-
   Renewable energy produced by solar panels with a capacity 
   of 2 MW.
-featured_image: /images/Tamatave.jpeg
 lang: en
-status: complete
+status: development
 ---
-**Location** : MADAGASCAR<br>
-**Region** : ATSINANANA<br>
-**Estimated yield** : 2 MW<br>
+**Location** : REPUBLIC OF GUINEA<br>
+**Region** : MIDDLE GUINEA<br>
+**Estimated yield** : 10 MW<br>
 
 ## SPECIAL FEATURE
 
