@@ -6,7 +6,7 @@ description: >-
   Renewable energy produced by solar panels with a capacity 
   of 10.8 MW.
 lang: en
-status: complete
+status: construction
 ---
 **Location** : MADAGASCAR<br>
 **Region** : BOENY<br>
