@@ -6,7 +6,7 @@ description: >-
   Énergie renouvelable produite par paneaux solaires visant
   une puissance de 10 MW. Le site est en cours 
   de construction.
-featured_image: /images/photo diego-const.jpg
+featured_image: /images/diego-const.jpg
 lang: fr
 status: construction
 ---

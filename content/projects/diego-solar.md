@@ -5,7 +5,7 @@ region: Madagascar
 description: >-
   Renewable energy produced by solar panels with a capacity 
   of 10 MW. The site is currently under construction.
-featured_image: /images/photo diego-const.jpg
+featured_image: /images/diego-const.jpg
 lang: en
 status: construction
 ---
