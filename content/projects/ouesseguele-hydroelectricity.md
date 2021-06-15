@@ -4,7 +4,7 @@ date: 2018-02-12T21:37:34.123Z
 region: Republic of Guinea
 description: >-
   Renewable energy produced by hydroelectric power plant (dam and power station)
-  with a capacity of 33 MW.
+  with a capacity of 32 MW.
 featured_image: /images/photo wuesseguele01.jpg
 lang: en
 status: development
@@ -12,7 +12,7 @@ status: development
 ---
 **Location** : REPUBLIC OF GUINEA<br>
 **Region** : MIDDLE GUINEA<br>
-**Estimated yield** : 33 MW<br>
+**Estimated yield** : 32 MW<br>
 
 ## SPECIAL FEATURE
 
