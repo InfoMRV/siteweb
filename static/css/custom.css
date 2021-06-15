@@ -264,15 +264,6 @@ header {
     background-size: contain;
 }
 
-.projects-title .mw9-alt.center:before {
-    content: '';
-    position: absolute;
-    top: -260px;
-    right: -24px;
-    width: 65%;
-    padding-top: 65%;
-}
-
 @media screen and (min-width: 30em) {
     top: -260px;
     right: -24px;
@@ -299,6 +290,48 @@ header {
 
 @media screen and (max-width: 479px) {
     .projects-title .mw9.center:before {
+        padding-top: 350px;
+        top: -300px;
+        right: 28%;
+    }
+
+}
+
+.projects-title .mw9-alt.center:before {
+    content: '';
+    position: absolute;
+    top: -260px;
+    right: -24px;
+    width: 65%;
+    padding-top: 65%;
+}
+
+@media screen and (min-width: 30em) {
+    top: -260px;
+    right: -24px;
+    width: 65%;
+    padding-top: 65%;
+}
+
+@media screen and (min-width: 60em) {
+    .projects-title .mw9-alt.center:before {
+        width: 50%;
+        top: -260px;
+        right: -24px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .projects-title .mw9-alt.center:before {
+        width: 440px;
+        padding-top: 420px;
+        margin-right: -220px;
+        right: 35%;
+    }
+}
+
+@media screen and (max-width: 479px) {
+    .projects-title .mw9-alt.center:before {
         padding-top: 350px;
         top: -300px;
         right: 28%;
