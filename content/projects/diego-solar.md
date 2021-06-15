@@ -1,11 +1,11 @@
 ---
-title: Diego (Ramena) (10 MW)
+title: Diego (Ramena) - Solar (10 MW)
 date: 2021-06-15T00:00:00.000Z
 region: Madagascar
 description: >-
-  Renewable energy produced by solar panels with a capacity of 10 MW.
-  Currently under construction.
-featured_image: /images/photo diego-const.jpeg
+  Renewable energy produced by solar panels with a capacity 
+  of 10 MW. The site is currently under construction.
+featured_image: /images/photo diego-const.jpg
 lang: en
 status: construction
 ---
