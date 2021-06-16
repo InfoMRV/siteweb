@@ -1,5 +1,5 @@
 ---
-title: Diego (Ramena) - Solar (7.60 MW)
+title: Diego (Ramena) - Solar (2.40 MW)
 date: 2021-06-15T00:00:00.000Z
 region: Madagascar
 description: >-
