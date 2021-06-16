@@ -3,8 +3,9 @@ title: Mahajanga (Phase 1) - Solar (1.2 MW)
 date: 2021-06-15T00:00:00.000Z
 region: Madagascar
 description: >-
-  Renewable energy produced by solar panels with a capacity 
-  of 1.2 MW.
+  Solar plant in the city of Mahajanga with a capacity 
+  of 1.2 MW built to help the effort of providing
+  cheaper and greener energy in Madagascar.
 featured_image: /images/Mahajanga.jpeg
 lang: en
 status: complete
