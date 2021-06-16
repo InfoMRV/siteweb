@@ -31,10 +31,9 @@ The solar photovoltaic plant project at Nosy Be was proposed by the Government o
 
 Since the island receives strong solar radiation throughout the day, the batteries will charge during daylight, and the stocked energy will be used to supply electricity at night. 
 
-## PARTNER
-LIDERA GREEN POWER PCC
+## PARTNERS
 
-NOSY BE GREEN POWER
+* NOSY BE GREEN POWER
 
 ## PLANNING
 
