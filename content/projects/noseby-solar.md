@@ -32,7 +32,7 @@ Since the island receives strong solar radiation throughout the day, the batteri
 
 ## PARTNERS
 
-* NOSY BE GREEN POWER
+* LIDERA GREEN POWER PCC
 
 ## PLANNING
 
