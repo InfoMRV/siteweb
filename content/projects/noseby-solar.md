@@ -6,6 +6,7 @@ description: >-
   Renewable energy produced by solar panels with a capacity 
   of 5 MW.
 lang: en
+featured_image: /images/noseby.JPG
 status: construction
 ---
 **Location** : MADAGASCAR<br>

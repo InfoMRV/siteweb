@@ -9,22 +9,22 @@ featured_image: /images/Mahajanga.jpeg
 lang: fr
 status: complete
 ---
-**Location** : MADAGASCAR<br>
-**Region** : BOENY<br>
-**Estimated yield** : 1.2 MW<br>
+**Lieu** : MADAGASCAR<br>
+**Région** : BOENY<br>
+**Puissance estimée** : 1.2 MW<br>
 
-## SPECIAL FEATURE
-
-...
-
-## CONTEXT AND OBJECTIVES
+## PARTICULARITÉ
 
 ...
 
-## PARTNER
+## CONTEXTE ET OBJECTIFS
 
 ...
 
-## PLANNING
+## PARTENAIRE
+
+...
+
+## PLANIFICATION
 
 ...

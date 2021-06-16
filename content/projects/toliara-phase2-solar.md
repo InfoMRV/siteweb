@@ -7,6 +7,7 @@ description: >-
   of 4 MW.
 lang: en
 status: development
+featured_image: /images/tulear2.jpg
 ---
 **Location** : MADAGASCAR<br>
 **Region** : ATSIMO-ANDREFANA<br>

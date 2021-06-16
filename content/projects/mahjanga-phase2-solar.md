@@ -5,6 +5,7 @@ region: Madagascar
 description: >-
   Renewable energy produced by solar panels with a capacity 
   of 10.8 MW.
+featured_image: /images/mahjanga2.jpg
 lang: en
 status: construction
 ---

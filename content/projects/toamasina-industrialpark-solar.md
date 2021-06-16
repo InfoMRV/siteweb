@@ -7,6 +7,7 @@ description: >-
   of 18 MW.
 lang: en
 status: construction
+featured_image: /images/terrain tamatave2.jpg
 ---
 **Location** : MADAGASCAR<br>
 **Region** : ATSINANANA<br>
