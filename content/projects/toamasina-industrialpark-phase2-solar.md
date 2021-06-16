@@ -28,7 +28,7 @@ featured_image: /images/terrain tamatave2.jpg
 
 As part of the Government of Madagascar’s efforts to grant cheaper and cleaner access to electricity to the population, they have requested the hybridization of existing HFO plants.
 
-This has led to the Malile extension project, which consists of a 35.35 MW power extension at the existing 5.65 MW solar plants located at Diego, Mahajanga and Toamasina.
+Once the MALILE solar plants located at Diego, Mahajanga and Toamasina were built, the extension project, consisting of a 35.35 MW power extension at the existing 5.65 MW followed suit.
 
 ## PARTNER
 

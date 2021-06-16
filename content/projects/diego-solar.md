@@ -1,35 +1,30 @@
 ---
-title: Diego (Phase 2) - Solar (7.60 MW)
+title: Diego (Ramena) - Solar (7.60 MW)
 date: 2021-06-15T00:00:00.000Z
 region: Madagascar
 description: >-
-  As part of the Government of Madagascar’s efforts to grant
-  cheaper and cleaner access to electricity to the population,
-  they have requested the hybridization of existing HFO plants.
-  This extension will add an additional 7.60 MW to the existing 
-  2.40 MW for a total of 10 MW.
+  Solar plant in the city of Diego producing 2.40 MW worth
+  of renewable energy.
 featured_image: /images/diego-const.jpg
 lang: en
-status: construction
+status: complete
 ---
 **Location** : MADAGASCAR<br>
 **Region** : DIANA<br>
-**Estimated yield** : 7.60 MW<br>
+**Estimated yield** : 2.40 MW<br>
 
 ## SPECIFICATIONS AND SPECIAL FEATURE
 
-The plant will extend an already existing plant with a capacity of 1.25 MW.
-
-* Plant Capacity: 7.60 MW
+* Plant Capacity: 2.40 MW
 * End of PPA: 2040
-* P50 - Yield (kWh/year): 1,870
-* P50 - Energy Produced (MWh/year): 3,376
+* P50 - Yield (kWh/year): 1,854
+* P50 - Energy Produced (MWh/year): 1,066
 
 ## CONTEXT AND OBJECTIVES
 
 As part of the Government of Madagascar’s efforts to grant cheaper and cleaner access to electricity to the population, they have requested the hybridization of existing HFO plants.
 
-This has led to the Malile extension project, which consists of a 35.35 MW power extension at the existing 5.65 MW solar plants located at Diego, Mahajanga and Toamasina.
+Three solar plants were built at Diego, Mahajanga and Toamasina to contribute to that effort.
 
 ## PARTNER
 
@@ -37,5 +32,4 @@ LIDERA GREEN POWER PCC
 
 ## PLANNING
 
-The extension of this project is under construction and should be commissioned by Q3 2021. 
-
+Construction has been completed in 2020 and the site is in operation. Since its commission, an extension has been under construction and should be commissioned by Q3 2021. 
