@@ -1,5 +1,5 @@
 ---
-title: Toamasina (Industrial Park) - Solar (18 MW)
+title: Toamasina (Industrial Park - Phase 2) - Solar (18 MW)
 date: 2021-06-15T00:00:00.000Z
 region: Madagascar
 description: >-
