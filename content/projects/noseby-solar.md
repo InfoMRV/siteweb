@@ -17,7 +17,8 @@ status: construction
 **Estimated yield** : 5 MW<br>
 
 ## SPECIFICATIONS AND SPECIAL FEATURES
-The project consists of the development and construction of a 5MW solar PV plant, with a 3MWh battery storage system, extendable to 10MW PV and 14MWh storage. 
+The project consists of the development and construction of a 5MW solar PV plant, with a 3MWh battery storage system, extendable to 10MW PV and 14MWh storage.
+
 * Plant Capacity: 5 + 3 MWh Batteries (Extendable to 10)
 * Solar Plants Tariff ($/kWh): Day (PV- 90%): 0.10 (0.07 as of year 8)
 * Night (Batteries-10%): 0.1525
