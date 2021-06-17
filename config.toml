@@ -3,7 +3,6 @@ baseURL = "/"
 languageCode = "fr"
 theme = "gohugo-theme-ananke"
 
-
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
@@ -26,10 +25,12 @@ enableRobotsTXT = true
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-white"
   featured_image = "/images/photo-accueil.jpg"
+  title2 = "Hydroélectricité - Solaire"
 
 [languages]
   [languages.fr]
     title = "DERA [fr]"
+	title2 = "Hydroélectricité - Solaire"
   [[Languages.fr.menu.languages]]
      name = "English"
      identifier = ""
@@ -54,6 +55,7 @@ enableRobotsTXT = true
 
   [languages.en]
     title = "DERA [en]"
+	title2 = "Hydroelectricity - Solar"
   [[Languages.en.menu.languages]]
      name = "Français"
      identifier = ""
