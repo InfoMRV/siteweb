@@ -14,9 +14,9 @@ lang: en
 status: development
 featured_image: /images/tulear2.jpg
 ---
-**Location** : MADAGASCAR<br>
-**Region** : ATSIMO-ANDREFANA<br>
-**Estimated yield** : 4 MW<br>
+**Location**: MADAGASCAR<br>
+**Region**: ATSIMO-ANDREFANA<br>
+**Estimated yield**: 4 MW<br>
 
 ## SPECIFICATIONS AND SPECIAL FEATURE
 

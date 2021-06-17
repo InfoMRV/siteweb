@@ -1,1 +1,2 @@
     {{ template "_internal/pagination.html" . }}
+	featured_image: /images/diego-const.jpg
