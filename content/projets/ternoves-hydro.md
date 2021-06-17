@@ -3,7 +3,7 @@ title: Ternoves - Hydro (8,35 MW)
 date: 2021-06-15T00:00:00.000Z
 region: Albanie
 description: >-
-Pour répondre à la demande croissante de consommation d'électricité en Albanie,
+  Pour répondre à la demande croissante de consommation d'électricité en Albanie,
   le gouvernement a ouvert le marché de l'énergie au début des années 2010.
   Cela a conduit au développement et à la construction de ce
   barrage hydroélectrique d'une capacité de 8,35 MW.
