@@ -13,9 +13,9 @@ lang: en
 status: construction
 featured_image: /images/terrain tamatave2.jpg
 ---
-**Location** : MADAGASCAR<br>
-**Region** : ATSINANANA<br>
-**Estimated yield** : 18 MW<br>
+**Location**: MADAGASCAR<br>
+**Region**: ATSINANANA<br>
+**Estimated yield**: 18 MW<br>
 
 ## SPECIFICATIONS AND SPECIAL FEATURE
 

@@ -12,9 +12,9 @@ featured_image: /images/mahjanga2.jpg
 lang: en
 status: construction
 ---
-**Location** : MADAGASCAR<br>
-**Region** : BOENY<br>
-**Estimated yield** : 10.8 MW<br>
+**Location**: MADAGASCAR<br>
+**Region**: BOENY<br>
+**Estimated yield**: 10.8 MW<br>
 
 ## SPECIFICATIONS AND SPECIAL FEATURE
 

@@ -10,9 +10,9 @@ featured_image: /images/Tamatave.jpeg
 lang: en
 status: complete
 ---
-**Location** : MADAGASCAR<br>
-**Region** : ATSINANANA<br>
-**Estimated yield** : 2 MW<br>
+**Location**: MADAGASCAR<br>
+**Region**: ATSINANANA<br>
+**Estimated yield**: 2 MW<br>
 
 ## SPECIFICATIONS AND SPECIAL FEATURE
 

@@ -12,9 +12,9 @@ featured_image: /images/diego-const.jpg
 lang: en
 status: construction
 ---
-**Location** : MADAGASCAR<br>
-**Region** : DIANA<br>
-**Estimated yield** : 7.60 MW<br>
+**Location**: MADAGASCAR<br>
+**Region**: DIANA<br>
+**Estimated yield**: 7.60 MW<br>
 
 ## SPECIFICATIONS AND SPECIAL FEATURE
 
