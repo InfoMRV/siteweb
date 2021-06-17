@@ -9,9 +9,9 @@ featured_image: /images/photo wuesseguele01.jpg
 lang: en
 status: development
 ---
-**Location** : REPUBLIC OF GUINEA<br>
-**Region** : MIDDLE GUINEA<br>
-**Estimated yield** : 33 MW<br>
+**Location**: REPUBLIC OF GUINEA<br>
+**Region**: MIDDLE GUINEA<br>
+**Estimated yield**: 33 MW<br>
 
 ## SPECIAL FEATURE
 

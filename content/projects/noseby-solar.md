@@ -12,9 +12,9 @@ lang: en
 featured_image: /images/noseby.JPG
 status: construction
 ---
-**Location** : MADAGASCAR<br>
-**Region** : ATSINANANA<br>
-**Estimated yield** : 5 MW<br>
+**Location**: MADAGASCAR<br>
+**Region**: ATSINANANA<br>
+**Estimated yield**: 5 MW<br>
 
 ## SPECIFICATIONS AND SPECIAL FEATURES
 The project consists of the development and construction of a 5MW solar PV plant, with a 3MWh battery storage system, extendable to 10MW PV and 14MWh storage.
@@ -32,7 +32,7 @@ Since the island receives strong solar radiation throughout the day, the batteri
 
 ## PARTNERS
 
-* LIDERA GREEN POWER PCC
+LIDERA GREEN POWER PCC
 
 ## PLANNING
 
