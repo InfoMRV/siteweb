@@ -6,4 +6,5 @@ featured_image = ""
 region = ""
 description = ""
 lang = "en"
+status = ""
 +++
