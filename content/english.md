@@ -1,7 +1,6 @@
 ---
-title: >-
-  Independant Renewable Energy Producers
-  Hydroelectricity - Solar
+title: Independant Renewable Energy Producers
+title2: Hydroelectricity - Solar
 description: Canadian energetic know-how
 featured_image: '/images/photo-accueil.jpg'
 type: english
