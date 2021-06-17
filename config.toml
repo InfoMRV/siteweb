@@ -26,6 +26,7 @@ enableRobotsTXT = true
   background_color_class = "bg-white"
   featured_image = "/images/photo-accueil.jpg"
   title2 = "Hydroélectricité - Solaire"
+  hastitle2 = false
 
 [languages]
   [languages.fr]
