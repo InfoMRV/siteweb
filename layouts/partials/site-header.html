@@ -26,7 +26,7 @@
           {{ .Title | default .Site.Title }}
         </h1><br />
 		<h1 class="f2 f-subheadline-l fw2 light-silver mb0 lh-title">
-          {{ with .Params.title2 }}
+          {{ with .Param "title2" | default "DERAAAAAAAAAAAAAAAA" }}
         </h1>
         {{ with .Params.description }}
           <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
