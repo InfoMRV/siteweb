@@ -1,4 +1,5 @@
 {{ $featured_image := .Param "featured_image" | default "images/gohugo-default-sample-hero-image.jpg" }}
+{{ $title2 := .Param "title2" | default "DERAAAAAAAAAAAAAAAA" }}
 {{ if $featured_image }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   {{ $featured_image := (trim $featured_image "/") | absURL }}
@@ -26,7 +27,7 @@
           {{ .Title | default .Site.Title }}
         </h1><br />
 		<h1 class="f2 f-subheadline-l fw2 light-silver mb0 lh-title">
-          {{ with .Param "title2" | default "DERAAAAAAAAAAAAAAAA" }}
+          {{ with $title2 }}
         </h1>
         {{ with .Params.description }}
           <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
