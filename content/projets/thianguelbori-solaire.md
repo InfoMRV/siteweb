@@ -4,7 +4,7 @@ date: 2021-06-15T00:00:00.000Z
 region: République de Guinée
 description: >-
   Énergie renouvelable produite par paneaux solaires visant
-  une puissance de 2 MW.
+  une puissance de 10 MW.
 lang: fr
 status: development
 ---
