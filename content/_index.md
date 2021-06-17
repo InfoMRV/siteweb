@@ -1,6 +1,6 @@
 ---
 menu: "francais"
-title: Producteur indépendants d'énergie renouvelable
+title: Producteur indépendant d'énergie renouvelable
 title2: Hydroélectricité - Solaire
 hastitle2: true
 featured_image: '/images/photo-accueil.jpg'

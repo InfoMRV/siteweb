@@ -5,4 +5,4 @@ description:
 type: our-services
 lang: en
 ---
-Développement Énergie Renouvelable Afrique inc. offers its customers all services related to the evolution of energy production operations and infrastructures and to the development of renewable energies, in their technical, economic, financial and institutional dimensions.
+DERA Energy offers its customers all services related to the evolution of energy production operations and infrastructures and to the development of renewable energies, in their technical, economic, financial and institutional dimensions.
