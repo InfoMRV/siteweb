@@ -7,6 +7,7 @@ description: >-
   centrale) visant une puissance de 33 MW.
 featured_image: /images/photo wuesseguele01.jpg
 lang: fr
+status: development
 ---
 **Lieu** : RÉPUBLIQUE DE GUINÉE<br>
 **Région** : MOYENNE GUINÉE<br>
