@@ -1,5 +1,6 @@
 ---
-title: Toamasina (Parc Industriel - Phase 2) - Solaire (18 MW)
+title: Toamasina (Parc Industriel - Phase 2)
+subtitle: Solaire - 18 MW
 date: 2021-06-15T00:00:00.000Z
 region: Madagascar
 description: >-

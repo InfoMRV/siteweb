@@ -1,5 +1,6 @@
 ---
-title: Ouességuélé - Hydroélectricité (33 MW)
+title: Ouességuélé
+subtitle: Hydro - 33 MW
 date: 2018-02-12T21:04:20.193Z
 region: République de Guinée
 description: >-

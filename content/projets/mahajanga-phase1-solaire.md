@@ -1,19 +1,20 @@
 ---
-title: Mahajanga (Phase 1) - Solaire (1,2 MW)
+title: Mahajanga (Phase 1)
+subtitle: Solaire - 1,20 MW
 date: 2021-06-15T00:00:00.000Z
 region: Madagascar
 description: >-
   Dans le cadre des efforts du gouvernement malgache pour accorder
   un accès moins cher et plus propre à l'électricité à la population,
   ce dernier a demandé l'hybridation des centrales HFO existantes.
-  L'énergie renouvelable produite par paneaux solaires est de 1,2 MW.
+  L'énergie renouvelable produite par paneaux solaires est de 1,20 MW.
 featured_image: /images/Mahajanga.jpeg
 lang: fr
 status: complete
 ---
 **Lieu** : MADAGASCAR<br>
 **Région** : BOENY<br>
-**Puissance estimée** : 1,2 MW<br>
+**Puissance estimée** : 1,20 MW<br>
 
 ## PARTICULARITÉ
 

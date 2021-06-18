@@ -1,5 +1,6 @@
 ---
-title: Mahajanga (Phase 2) - Solaire (10,8 MW)
+title: Mahajanga (Phase 2)
+subtitle: Solaire - 10,80 MW
 date: 2021-06-15T00:00:00.000Z
 region: Madagascar
 description: >-
@@ -14,11 +15,11 @@ status: construction
 ---
 **Lieu** : MADAGASCAR<br>
 **Région** : BOENY<br>
-**Puissance estimée** : 10,8 MW<br>
+**Puissance estimée** : 10,80 MW<br>
 
 ## PARTICULARITÉ
 
-Cette extension ajoutera 10,8 MW suplementaires à la capacité à la central existante.
+Cette extension ajoutera 10,80 MW suplementaires à la capacité à la central existante.
 
 * Capacité de la centrale : 10,75MW
 * Fin du PPA : 2040

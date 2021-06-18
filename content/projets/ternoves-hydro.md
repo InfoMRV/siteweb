@@ -1,5 +1,6 @@
 ---
-title: Ternoves - Hydro (8,35 MW)
+title: Ternoves
+subtitle: Hydro - 8,35 MW
 date: 2021-06-15T00:00:00.000Z
 region: Albanie
 description: >-

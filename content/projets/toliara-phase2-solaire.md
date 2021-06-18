@@ -1,5 +1,6 @@
 ---
-title: Toliara (Phase 2) - Solaire (4 MW)
+title: Toliara (Phase 2)
+subtitle: Solaire - 4 MW
 date: 2021-06-15T00:00:00.000Z
 region: Madagascar
 description: >-
@@ -9,7 +10,7 @@ description: >-
   et d'eau, a demandé l' hybridation de diverses centrales HFO.
   L'énergie renouvelable sera produite grâce à des
   panneaux solaires PV d'une capacité de 4 MW, ajoutant à
-  une centrale existante et en exploitation de 2,9 MW.
+  une centrale existante et en exploitation de 2,90 MW.
 lang: fr
 featured_image: /images/tulear2.jpg
 status: development
@@ -20,10 +21,10 @@ status: development
 
 ## PARTICULARITÉ
 
-Le projet Tuléar  2,9 MW à Tuléar.
+Le projet Tuléar  2,90 MW à Tuléar.
 Une extension de puissance de 4 MW à ce projet est en construction et devrait être mise en service d'ici le deuxième trimestre 2021.
 
-* Capacité de la centrale : 4MW
+* Capacité de la centrale : 4 MW
 * Fin du PPA : 2041
 * P50 - Rendement (kWh/an) : 2167
 * P50 - Énergie produite (MWh/an) : 8212

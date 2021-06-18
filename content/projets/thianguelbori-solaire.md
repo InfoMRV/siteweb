@@ -1,5 +1,6 @@
 ---
-title: Thianguel Bori - Solaire (10 MW)
+title: Thianguel Bori
+subtitle: Solaire - 10 MW
 date: 2021-06-15T00:00:00.000Z
 region: République de Guinée
 description: >-
