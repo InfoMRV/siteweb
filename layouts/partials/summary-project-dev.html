@@ -12,6 +12,9 @@
 		</div>
 		<div class="pa4">
 			<h3 class="link f2 mt0 mb2 db noir lh-title">{{ .Title }}</h3>
+			{{ if .Params.subtitle }}
+				<h3 class="link f2 mt0 mb2 db noir lh-title">{{ .Params.subtitle }}</h3>
+			{{ end }}
 			<p class="f5 fw7 ttu mt0 vert1">
 				{{ if .Params.region }}
 					{{ .Params.region }}
