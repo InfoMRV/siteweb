@@ -285,6 +285,7 @@ header {
         padding-top: 420px;
         margin-right: -220px;
         right: 35%;
+		z-index: -1;
     }
 }
 
@@ -293,6 +294,7 @@ header {
         padding-top: 350px;
         top: -300px;
         right: 28%;
+		z-index: -1;
     }
 
 }
