@@ -13,11 +13,11 @@ status: complete
 ---
 **Location**: MADAGASCAR<br>
 **Region**: ATSINANANA<br>
-**Estimated yield**: 2MW<br>
+**Estimated yield**: 2 MW<br>
 
 ## SPECIFICATIONS AND SPECIAL FEATURE
 
-* Plant Capacity: 2MW
+* Plant Capacity: 2 MW
 * End of PPA: 2040
 * P50 - Yield (kWh/year): 1,633
 * P50 - Energy Produced (MWh/year): 780

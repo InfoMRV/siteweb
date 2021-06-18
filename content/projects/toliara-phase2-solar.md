@@ -21,10 +21,10 @@ featured_image: /images/tulear2.jpg
 
 ## SPECIFICATIONS AND SPECIAL FEATURE
 
-The Tulear Project consists of operating an existing 2.9MW hybridization project at Tulear. 
+The Tulear Project consists of operating an existing 2.90 MW hybridization project at Tulear. 
 A subsequent 4MW power extension to this project is under construction and should be commissioned by Q2 2021.
 
-* Plant Capacity: 4MW
+* Plant Capacity: 4 MW
 * End of PPA: 2041
 * P50 - Yield (kWh/year): 2,167
 * P50 - Energy Produced (MWh/year): 8,212
@@ -43,5 +43,5 @@ LIDERA GREEN POWER PCC
 
 The extension will be conducted under the same SPV, Tulear Green Power, owned by Lidera. The project is expected to be commissioned by Q2 2021. 
 
-Energy will be evacuated through the existing HFO Enelec plants; the existing 2.90MW plant is already connected.
+Energy will be evacuated through the existing HFO Enelec plants; the existing 2.90 MW plant is already connected.
 

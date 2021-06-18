@@ -1,13 +1,13 @@
 ---
 title: Mahajanga (Phase 2)
-subtitle: Solar - 10.8 MW
+subtitle: Solar - 10.80 MW
 date: 2021-06-15T00:00:00.000Z
 region: Madagascar
 description: >-
   As part of the Government of Madagascar’s efforts to grant
   cheaper and cleaner access to electricity to the population,
   they have requested the hybridization of existing HFO plants.
-  This extension will add an additional 10.8 MW to the existing 
+  This extension will add an additional 10.80 MW to the existing 
   1.25 MW.
 featured_image: /images/mahjanga2.jpg
 lang: en
@@ -21,7 +21,7 @@ status: construction
 
 The plant will extend an already existing plant with a capacity of 1.25 MW.
 
-* Plant Capacity: 10.75MW
+* Plant Capacity: 10.75 MW
 * End of PPA: 2040
 * P50 - Yield (kWh/year): 2,029
 * P50 - Energy Produced (MWh/year): 5,194

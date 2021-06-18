@@ -1,11 +1,11 @@
 ---
 title: Mahajanga (Phase 1)
-subtitle: Solar - 1.2 MW
+subtitle: Solar - 1.20 MW
 date: 2021-06-15T00:00:00.000Z
 region: Madagascar
 description: >-
   Solar plant in the city of Mahajanga with a capacity 
-  of 1.2 MW built to help the effort of providing
+  of 1.20 MW built to help the effort of providing
   cheaper and greener energy in Madagascar.
 featured_image: /images/Mahajanga.jpeg
 lang: en
@@ -13,7 +13,7 @@ status: complete
 ---
 **Location**: MADAGASCAR<br>
 **Region**: BOENY<br>
-**Estimated yield**: 1.2 MW<br>
+**Estimated yield**: 1.20 MW<br>
 
 ## SPECIFICATIONS AND SPECIAL FEATURE
 
