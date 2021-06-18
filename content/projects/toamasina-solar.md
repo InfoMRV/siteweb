@@ -1,5 +1,6 @@
 ---
-title: Toamasina (la Verrerie) - Solar (2 MW)
+title: Toamasina (la Verrerie)
+subtitle: Solar - 2 MW
 date: 2021-06-15T00:00:00.000Z
 region: Madagascar
 description: >-
@@ -12,11 +13,11 @@ status: complete
 ---
 **Location**: MADAGASCAR<br>
 **Region**: ATSINANANA<br>
-**Estimated yield**: 2 MW<br>
+**Estimated yield**: 2MW<br>
 
 ## SPECIFICATIONS AND SPECIAL FEATURE
 
-* Plant Capacity: 2 MW
+* Plant Capacity: 2MW
 * End of PPA: 2040
 * P50 - Yield (kWh/year): 1,633
 * P50 - Energy Produced (MWh/year): 780
@@ -33,5 +34,5 @@ LIDERA GREEN POWER PCC
 
 ## PLANNING
 
-Construction has been completed in 2020 and the site is in operation. Since its commission, an extension has been under construction and should be commissioned by Q3 2021. The extension will consist of a field of PV panels that will add 18 MW to the energy yield for a total of 20 MW produced on site.
+Construction has been completed in 2020 and the site is in operation. Since its commission, an extension has been under construction and should be commissioned by Q3 2021. The extension will consist of a field of PV panels that will add 18MW to the energy yield for a total of 20MW produced on site.
 

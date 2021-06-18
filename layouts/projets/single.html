@@ -8,6 +8,9 @@
 <div class="single-view-title psides">
     <div class="mw7 center">
         <h1 class="f2 f1-l fw3 bg-white mb0 lh-title tl noir">{{ .Title | default .Site.Title }}</h1>
+		{{ if .Params.subtitle }}
+			<h1 class="f2 f1-l fw3 bg-white mb0 lh-title tl noir">{{ .Params.subtitle }}</h1>
+		{{ end }}
     </div>
 </div>
 

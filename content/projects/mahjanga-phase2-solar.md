@@ -1,5 +1,6 @@
 ---
-title: Mahajanga (Phase 2) - Solar (10.8 MW)
+title: Mahajanga (Phase 2)
+subtitle: Solar - 10.8 MW
 date: 2021-06-15T00:00:00.000Z
 region: Madagascar
 description: >-

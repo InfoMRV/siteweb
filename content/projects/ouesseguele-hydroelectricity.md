@@ -1,5 +1,6 @@
 ---
-title: Ouesseguele - Hydroelectricity (33 MW)
+title: Ouesseguele
+subtitle:  Hydro - 33 MW
 date: 2018-02-12T21:37:34.123Z
 region: Republic of Guinea
 description: >-

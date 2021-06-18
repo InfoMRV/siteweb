@@ -1,5 +1,6 @@
 ---
-title: Toliara (Phase 2) - Solar (4 MW)
+title: Toliara (Phase 2)
+subtitle: Solar - 4 MW
 date: 2021-06-15T00:00:00.000Z
 region: Madagascar
 description: >-
@@ -9,7 +10,7 @@ description: >-
   hybridization of various HFO power plants. 
   The renewable energy will be produced through solar
   panels with a capacity of 4 MW, extending an already
-  existing and operating 2.9 MW installation.
+  existing and operating 2.90 MW installation.
 lang: en
 status: development
 featured_image: /images/tulear2.jpg
@@ -42,5 +43,5 @@ LIDERA GREEN POWER PCC
 
 The extension will be conducted under the same SPV, Tulear Green Power, owned by Lidera. The project is expected to be commissioned by Q2 2021. 
 
-Energy will be evacuated through the existing HFO Enelec plants; the existing 2.9MW plant is already connected.
+Energy will be evacuated through the existing HFO Enelec plants; the existing 2.90MW plant is already connected.
 
