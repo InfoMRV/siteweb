@@ -476,7 +476,26 @@ header {
     }
 }
 
+/* ABOUT US PAGE */
 
+@media screen and (min-width: 30em) {
+    .contact-wrap-alt,
+    .contact-wrap-alt .fl {
+        display: block;
+    }
+}
+
+.contact-wrap-alt img {
+    object-fit: cover;
+}
+
+.contact-wrap-alt h3:after {
+    content: '';
+    display: block;
+    margin: 16px auto 24px;
+    width: 56px;
+    border-bottom: 2px solid #E4E4E4;
+}
 
 /* SINGLE VIEW */
 
