@@ -50,12 +50,12 @@ enableRobotsTXT = true
   [[Languages.fr.menu.custom]]
      name = "Notre action"
      identifier = ""
-     weight = 5
+     weight = 4
      url = "/notre-action"
   [[Languages.fr.menu.custom]]
      name = "À propos"
      identifier = ""
-     weight = 4
+     weight = 5
      url = "/a-propos"
 
 
@@ -80,10 +80,10 @@ enableRobotsTXT = true
   [[Languages.en.menu.custom]]
      name = "Our Action"
      identifier = ""
-     weight = 5
+     weight = 4
      url = "/en/our-action"
   [[Languages.en.menu.custom]]
      name = "About Us"
      identifier = ""
-     weight = 4
+     weight = 5
      url = "/en/about-us"
