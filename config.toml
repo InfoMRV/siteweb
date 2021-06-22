@@ -35,7 +35,7 @@ enableRobotsTXT = true
   [[Languages.fr.menu.languages]]
      name = "English"
      identifier = ""
-     weight = 5
+     weight = 6
      url = "/en"
   [[Languages.fr.menu.custom]]
      name = "Projets"
@@ -45,13 +45,18 @@ enableRobotsTXT = true
   [[Languages.fr.menu.custom]]
      name = "Contact"
      identifier = ""
-     weight = 6
+     weight = 7
      url = "/contact"
   [[Languages.fr.menu.custom]]
-     name = "Services"
+     name = "Notre action"
+     identifier = ""
+     weight = 5
+     url = "/notre-action"
+  [[Languages.fr.menu.custom]]
+     name = "À propos"
      identifier = ""
      weight = 4
-     url = "/services"
+     url = "/a-propos"
 
 
   [languages.en]
@@ -60,13 +65,8 @@ enableRobotsTXT = true
   [[Languages.en.menu.languages]]
      name = "Français"
      identifier = ""
-     weight = 5
+     weight = 6
      url = "/"
-  [[Languages.en.menu.custom]]
-     name = "Services"
-     identifier = ""
-     weight = 4
-     url = "/en/services"
   [[Languages.en.menu.custom]]
      name = "Projects"
      identifier = ""
@@ -75,7 +75,15 @@ enableRobotsTXT = true
   [[Languages.en.menu.custom]]
      name = "Contact"
      identifier = ""
-     weight = 6
+     weight = 7
      url = "/en/contact"
-
-
+  [[Languages.en.menu.custom]]
+     name = "Our Action"
+     identifier = ""
+     weight = 5
+     url = "/en/our-action"
+  [[Languages.en.menu.custom]]
+     name = "About Us"
+     identifier = ""
+     weight = 4
+     url = "/en/about-us"
