@@ -11,12 +11,13 @@
 	{{ $section := .Data.Pages }}
     <div class="mw8 center cf mb5 contact-wrap-alt">
 	{{ range  $section }}
-        <div class="fl w-33 w-100-m w-100-ns w-100-1 ph3">
+        <div class="fl w-100 w-33-m w-33-ns w-33-1 ph3">
 		{{ partial "summary-employee.html" . }}
         </div>
 		{{ end }}
     </div>
 </div>
+
 
 <div class="psides tc mt4 mb5">
     <a href="/contact/" class="f4 link ph4 pv3 mv2 dib bg-vert1 white mr3">Contactez-nous</a>
