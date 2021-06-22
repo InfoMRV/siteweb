@@ -2,7 +2,7 @@
 title: Independant Renewable Energy Producer
 title2: Hydroelectricity - Solar
 hastitle2: true
-description: Canadian energetic know-how
+description: Developing today the energy of tomorrow
 featured_image: '/images/photo-accueil.jpg'
 type: english
 lang: en
