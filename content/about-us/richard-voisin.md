@@ -1,6 +1,7 @@
 ---
-featured_image: '/images/contact_richard.png'
-name: Richard Voisin, P.Eng., PMP
+featured_image: /images/contact_richard.png
+name: Richard Voisin
 position: President
 weight: 1
 ---
+
