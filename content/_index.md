@@ -7,4 +7,3 @@ featured_image: '/images/photo-accueil.jpg'
 description: "Développer aujourd'hui l'énergie de demain"
 lang: "fr"
 ---
-
