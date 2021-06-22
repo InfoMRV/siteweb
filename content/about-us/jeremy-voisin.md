@@ -1,5 +1,5 @@
 ---
 name: Jeremy Voisin
 position: CFO
-weight: 2
+weight: 3
 ---

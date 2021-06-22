@@ -1,5 +1,5 @@
 ---
 name: Badis Limam
 position: IT Manager
-weight: 6
+weight: 7
 ---

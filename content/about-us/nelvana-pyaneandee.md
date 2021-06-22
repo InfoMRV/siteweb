@@ -1,5 +1,5 @@
 ---
 name: Nelvana Pyaneandee
 position: Investment Director
-weight: 3
+weight: 4
 ---
