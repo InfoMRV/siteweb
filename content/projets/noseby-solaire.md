@@ -1,7 +1,7 @@
 ---
 title: Nosy Be
 subtitle: Solaire - 5 MW
-date: 2021-07-15T00:00:00.000Z
+date: 2021-04-15T00:00:00.000Z
 region: Madagascar
 description: >-
   Le projet de centrale solaire photovoltaïque de Nosy Be a été proposé
