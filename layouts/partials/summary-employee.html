@@ -1,0 +1,17 @@
+{{ $featured_image := .Params.featured_image }}
+
+<article class="bg-white br3 pt3 pt4-ns mv3 ba b--black-10">
+	<div class="tc">
+	{{ if .Params.featured_image }}
+	  <img src="{{ $featured_image }}" class="br-100 h4 h5-l w4 w5-l center dib ba b--black-05 pa2" title="{{ .Title }}">
+	{{ else }}
+	  <img src="/images/generic.png" class="br-100 h4 h5-l w4 w5-l center dib ba b--black-05 pa2" title="{{ .Title }}">
+	{{ end }}
+	  <div class="pa3 pa4-l f6 f5-l">
+		  <h3 class="f5 tc lh-copy">
+			  {{ .Params.name }}
+			  <small class="f6 gris1 db">{{ .Params.position }}</small>
+		  </h3>
+	  </div>
+	</div>
+</article>
