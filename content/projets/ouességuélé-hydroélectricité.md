@@ -1,7 +1,7 @@
 ---
 title: Ouességuélé
 subtitle: Hydro - 33 MW
-date: 2018-02-12T21:04:20.193Z
+date: 2021-06-15T00:00:00.000Z
 region: République de Guinée
 description: >-
   Énergie renouvelable produite par aménagement hydroélectrique (barrage et

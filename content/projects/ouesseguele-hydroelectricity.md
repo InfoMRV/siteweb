@@ -1,7 +1,7 @@
 ---
 title: Ouesseguele
 subtitle:  Hydro - 33 MW
-date: 2018-02-12T21:37:34.123Z
+date: 2021-06-15T00:00:00.000Z
 region: Republic of Guinea
 description: >-
   Renewable energy produced by hydroelectric power plant (dam and power station)
