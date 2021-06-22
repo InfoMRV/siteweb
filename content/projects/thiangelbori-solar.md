@@ -1,5 +1,6 @@
 ---
 title: Thiangel Bori
+featured_image: /images/thianguel-bori-site.jpg
 subtitle: Solar - 10 MW
 date: 2021-06-15T00:00:00.000Z
 region: Republic of Guinea
