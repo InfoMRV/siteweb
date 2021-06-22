@@ -116,3 +116,15 @@
 DERA Energy relies on the strength, responsiveness and performance of its organization. The determination and talent of our resources unites our organization in a spirit of transparency and civic responsibility.
 
 DERA Energy compte sur la solidité, la réactivité et la performance de son organisation. La détermination et le talent des ressources fédèrent notre organisation dans un esprit de transparence et de responsabilité citoyenne.
+
+<div class="pt4 pb3 psides bg-white">
+    <div class="mw7 center">
+        <h2 class="f2 fw4 tc">Pour contacter DERA</h2>
+    </div>
+</div>
+
+<div class="pt4 pb3 psides bg-white">
+    <div class="mw7 center">
+        <h2 class="f2 fw4 tc">To contact DERA</h2>
+    </div>
+</div>
