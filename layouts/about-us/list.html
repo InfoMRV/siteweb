@@ -11,7 +11,7 @@
 	{{ $section := .Data.Pages }}
     <div class="mw8 center cf mb5 contact-wrap">
 	{{ range  $section }}
-        <div class="fl w-100 w-50-m w-50-l ph3">
+        <div class="fl w-100 w-50-m w-50-l ph3" style="display: block;">
 		{{ partial "summary-employee.html" . }}
         </div>
 		{{ end }}
