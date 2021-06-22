@@ -482,6 +482,7 @@ header {
     .contact-wrap-alt,
     .contact-wrap-alt .fl {
         display: block;
+		width: 100%;
     }
 }
 
