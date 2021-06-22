@@ -9,9 +9,9 @@
 
 <div class="psides bg-white">	  
 	{{ $section := .Data.Pages }}
-    <div class="mw8 center cf mb5 contact-wrap" style="display: block;">
+    <div class="mw8 center cf mb5 contact-wrap" style="display: block !important;">
 	{{ range  $section }}
-        <div class="fl w-100 w-50-m w-50-l ph3" style="padding-left: 0.5rem; padding-right: 0.5rem;">
+        <div class="fl w-100 w-50-m w-50-l ph3">
 		{{ partial "summary-employee.html" . }}
         </div>
 		{{ end }}
