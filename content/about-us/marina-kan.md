@@ -1,5 +1,5 @@
 ---
 name: Marina Kan
 position: Accounting Analyst
-weight: 3
+weight: 4
 ---
