@@ -7,6 +7,7 @@ description: >-
   Solar plant in the city of Diego producing 2.40 MW worth
   of renewable energy, built to help the effort of providing
   cheaper and greener energy in Madagascar.
+  featured_image: /images/diego2.png
 lang: en
 status: complete
 ---

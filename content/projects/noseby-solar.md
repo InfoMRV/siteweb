@@ -11,7 +11,7 @@ description: >-
   of 5 MW.
 lang: en
 featured_image: /images/noseby.JPG
-status: construction
+status: development
 ---
 **Location**: MADAGASCAR<br>
 **Region**: ATSINANANA<br>

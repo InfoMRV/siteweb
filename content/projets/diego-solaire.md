@@ -8,6 +8,7 @@ description: >-
   un accès moins cher et plus propre à l'électricité à la population,
   ce dernier a demandé l'hybridation des centrales HFO existantes.
   L'énergie renouvelable produite par paneaux solaires est de 2,40 MW.
+  featured_image: /images/diego2.png
 lang: fr
 status: complete
 ---

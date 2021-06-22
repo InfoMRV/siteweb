@@ -10,7 +10,7 @@ description: >-
   grâce à des panneaux solaires avec un rendement estimé de 5 MW.
 lang: fr
 featured_image: /images/noseby.JPG
-status: construction
+status: development
 ---
 **Lieu** : MADAGASCAR<br>
 **Région** : ATSINANANA<br>
