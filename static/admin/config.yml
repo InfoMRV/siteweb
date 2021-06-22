@@ -7,6 +7,24 @@ media_folder: "/static/images" # Folder where user uploaded files should go
 public_folder: "images"
 
 collections: # A list of collections the CMS should be able to edit
+  - name: "a-propos" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "À propos (FR)" # Used in the UI, ie.: "New Post"
+    folder: "content/a-propos" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
+      - {label: "Name", name: "name", widget: "string" required: true}
+      - {label: "Position", name: "position", widget: "string" required: true}
+      - {label: "Weight", name: "weight", widget: "number" required: true }
+   - name: "about-us" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "About Us (EN)" # Used in the UI, ie.: "New Post"
+    folder: "content/about-us" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
+      - {label: "Name", name: "name", widget: "string" required: true}
+      - {label: "Position", name: "position", widget: "string" required: true}
+      - {label: "Weight", name: "weight", widget: "number" required: true }
   - name: "projets" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Projet (FR)" # Used in the UI, ie.: "New Post"
     folder: "content/projets" # The path to the folder where the documents are stored
