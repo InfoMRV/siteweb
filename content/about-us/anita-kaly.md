@@ -1,5 +1,5 @@
 ---
 name: Anita Kaly
 position: Renewable Energy Expert
-weight: 6
+weight: 7
 ---
