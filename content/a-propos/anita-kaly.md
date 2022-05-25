@@ -1,5 +1,5 @@
 ---
 name: Anita Kaly
 position: Experte en énergies renouvelables
-weight: 6
+weight: 7
 ---

@@ -1,5 +1,5 @@
 ---
 name: Badis Limam
 position: Responsable Informatique
-weight: 7
+weight: 8
 ---
